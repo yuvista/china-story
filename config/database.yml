@@ -1,5 +1,5 @@
 # MySQL.  Versions 4.1 and 5.0 are recommended.
-# 
+#
 # Install the MYSQL driver
 #   gem install mysql2
 #
@@ -14,9 +14,10 @@ development:
   reconnect: false
   database: china-story_development
   pool: 5
+  host: localhost
   username: root
-  password:
-  socket: /var/run/mysqld/mysqld.sock
+  password: '123456'
+  port: 3306
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
@@ -27,9 +28,10 @@ test:
   reconnect: false
   database: china-story_test
   pool: 5
+  host: localhost
   username: root
-  password:
-  socket: /var/run/mysqld/mysqld.sock
+  password: '123456'
+  port: 3306
 
 production:
   adapter: mysql2
@@ -37,6 +39,7 @@ production:
   reconnect: false
   database: china-story_production
   pool: 5
+  host: localhost
   username: root
-  password:
-  socket: /var/run/mysqld/mysqld.sock
+  password: '123456'
+  port: 3306
