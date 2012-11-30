@@ -29,6 +29,7 @@ GEM
       i18n (~> 0.6)
       multi_json (~> 1.0)
     arel (3.0.2)
+    bcrypt-ruby (3.0.1)
     bootstrap-sass (2.1.1.0)
     bootswatch-rails (0.1.0)
       railties (>= 3.1)
@@ -40,6 +41,13 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.4.0)
+    devise (2.1.2)
+      bcrypt-ruby (~> 3.0)
+      orm_adapter (~> 0.1)
+      railties (~> 3.1)
+      warden (~> 1.2.1)
+    devise-encryptable (0.1.1)
+      devise (>= 2.1.0.rc)
     erubis (2.7.0)
     execjs (1.4.0)
       multi_json (~> 1.0)
@@ -57,6 +65,7 @@ GEM
     mime-types (1.19)
     multi_json (1.3.7)
     mysql2 (0.3.11)
+    orm_adapter (0.4.0)
     polyglot (0.3.3)
     rack (1.4.1)
     rack-cache (1.2)
@@ -101,6 +110,8 @@ GEM
     uglifier (1.3.0)
       execjs (>= 0.3.0)
       multi_json (~> 1.0, >= 1.0.2)
+    warden (1.2.1)
+      rack (>= 1.0)
 
 PLATFORMS
   ruby
@@ -109,6 +120,8 @@ DEPENDENCIES
   bootstrap-sass (~> 2.1.1.0)
   bootswatch-rails
   coffee-rails (~> 3.2.1)
+  devise
+  devise-encryptable
   jquery-rails
   mysql2
   rails (= 3.2.8)
