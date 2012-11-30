@@ -12,6 +12,10 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
+group :test, :development do
+  gem "rspec-rails", "~> 2.0"
+end
+
 gem 'bootstrap-sass', '~> 2.1.1.0'
 gem 'bootswatch-rails'
 
