@@ -1,0 +1,26 @@
+development:
+  sessions:
+    default:
+      database: china_story_development
+      hosts:
+        - localhost:27017
+  options:
+    identity_map_enabled: true
+
+test:
+  sessions:
+    default:
+      database: china_story_test
+      hosts:
+        - localhost:27017
+  options:
+    identity_map_enabled: true
+
+production:
+  sessions:
+    default:
+      database: china_story
+      hosts:
+        - localhost:27017
+  options:
+    identity_map_enabled: true
