@@ -3,7 +3,8 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.8'
 gem 'jquery-rails'
 
-gem 'mysql2'
+gem "mongoid", "~> 3.0.0"
+gem 'mongoid_rails_migrations'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
