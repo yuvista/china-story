@@ -14,6 +14,8 @@ end
 
 group :test, :development do
   gem "rspec-rails", "~> 2.0"
+  gem "capybara"
+  gem "factory_girl_rails"
 end
 
 gem 'bootstrap-sass', '~> 2.1.1.0'
