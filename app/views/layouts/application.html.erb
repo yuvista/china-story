@@ -3,6 +3,7 @@
 <head>
   <title>中国故事</title>
   <%= stylesheet_link_tag "application", :media => "all" %>
+  <%= yield :head %>
   <%= csrf_meta_tags %>
 </head>
 <body>
@@ -30,6 +31,7 @@
     </div>
   </div>
   <div class="container"><%= yield %></div>
-  <%= javascript_include_tag "application" %>
+  <%= javascript_include_tag 'application' %>
+  <%= yield :javascript %>
 </body>
 </html>
