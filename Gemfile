@@ -20,7 +20,6 @@ group :test, :development do
 end
 
 gem 'bootstrap-sass', '~> 2.1.1.0'
-gem 'bootswatch-rails'
 
 gem 'devise'
 gem 'devise-encryptable'
