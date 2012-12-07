@@ -1,0 +1,18 @@
+zh:
+  mongoid:
+    errors:
+      models:
+        user:
+          attributes:
+            user_name:
+              blank: 用户名不能为空
+              taken: 用户名已存在，请重置
+            email:
+              blank: 电子邮箱不能为空
+              invalid: 无效的电子邮箱
+              taken: 电子邮箱已使用，请重置
+            password:
+              blank: 密码信息不能为空
+              too_short: 密码长度应不小于6个字符且不大于20个字符
+              too_long: 密码长度应不小于6个字符且不大于20个字符
+              confirmation: 密码与确认值不匹配

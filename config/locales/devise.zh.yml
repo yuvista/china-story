@@ -1,0 +1,7 @@
+zh:
+  errors:
+    messages:
+      not_found: 没有找到
+      already_confirmed: 已经确认
+      not_locked: 没有锁定
+      not_saved: ''
