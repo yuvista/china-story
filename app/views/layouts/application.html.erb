@@ -13,32 +13,38 @@
         <%= link_to '中国故事', {:controller => '/home'}, :class => 'brand' %>
         <div class="nav-collapse collapse">
           <ul class="nav">
-            <li><%= link_to '春秋战国'%></li>
-            <li><%= link_to '秦汉'%></li>
-            <li><%= link_to '三国' %></li>
-            <li><%= link_to '魏晋南北朝'%></li>
-            <li><%= link_to '隋唐' %></li>
-            <li><%= link_to '五代十国' %></li>
-            <li><%= link_to '宋元明清'%></li>
-            <li><%= link_to '其他'%></li>
+            <%= dynasty_menu %>
           </ul>
           <ul class="nav pull-right">
-            <li>
-              <%= link_to '登录',
-                :controller => '/users', :action => 'sign_in'
+            <% if user_signed_in? %>
+              <%= user_menu %>
+            <% else %>
+              <% if request.path == new_user_session_path %>
+                <li class="active">
+                  <%= link_to '登录', new_user_session_path %>
+                </li>
+              <% else %>
+                <li><%= link_to '登录', new_user_session_path %></li>
+              <% end %>
+              <% if request.path == new_user_registration_path or
+                   (request.path == '/users' and devise_error_messages!)
               %>
-            </li>
-            <li>
-              <%= link_to '注册',
-                :controller => '/users', :action => 'sign_up'
-              %>
-            </li>
+                <li class="active">
+                  <%= link_to '注册', new_user_registration_path %>
+                </li>
+              <% else %>
+                <li><%= link_to '注册', new_user_registration_path %></li>
+              <% end %>
+            <% end %>
           </ul>
         </div>
       </div>
     </div>
   </div>
-  <div class="container"><%= yield %></div>
+  <div class="container">
+    <%= alert_message flash[:notice], 'alert-success'%>
+    <%= yield %>
+  </div>
   <%= javascript_include_tag 'application' %>
   <%= yield :javascript %>
 </body>

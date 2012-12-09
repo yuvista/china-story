@@ -8,3 +8,10 @@ zh:
     failure:
       user:
         invalid: 用户名或密码错误
+    sessions:
+      user:
+        signed_in: 登录成功
+        signed_out: 已成功退出，欢迎下次再来
+    registrations:
+      user:
+        signed_up: 注册成功
