@@ -1,11 +1,16 @@
 .container {
   label {
-    display: inline;
+    display: inline
   }
   .btn {
-    margin-top: 10px;
+    margin-top: 10px
   }
   .remember_me {
-    margin: 0;
+    margin: 0
+  }
+
+  .forget_password {
+    float: right;
+    margin-right: 10px
   }
 }
