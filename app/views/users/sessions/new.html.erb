@@ -3,9 +3,7 @@
 <% end %>
 <div class="span4 offset3">
   <h2 class="form-signin-heading">登录</h2>
-  <% if params[:user] %>
-    <div class="alert alert-block alert-error fade in">用户名或密码错误。</div>
-  <% end %>
+  <%= alert_message flash[:alert] %>
   <%= form_for(resource, :as => resource_name, :url => session_path(resource_name)) do |f| %>
     <%= f.text_field :user_name, :class => 'input-block-level',
       :placeholder => '用户名'

@@ -4,3 +4,7 @@ zh:
       not_found: 没有找到
       already_confirmed: 已经确认
       not_locked: 没有锁定
+  devise:
+    failure:
+      user:
+        invalid: 用户名或密码错误
