@@ -15,6 +15,7 @@ zh:
     registrations:
       user:
         signed_up: 注册成功
+        updated: 您的信息已更新
     passwords:
       user:
         send_instructions: 您将在几分钟之后收到一封如何取回密码的电子邮件，请注意查收

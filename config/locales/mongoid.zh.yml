@@ -11,6 +11,9 @@ zh:
               blank: 电子邮箱不能为空
               invalid: 无效的电子邮箱
               taken: 电子邮箱已使用，请重置
+            current_password:
+              blank: 密码验证失败
+              invalid: 密码验证失败
             password:
               blank: 密码信息不能为空
               too_short: 密码长度应不小于6个字符且不大于20个字符

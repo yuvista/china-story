@@ -25,6 +25,7 @@ module ApplicationHelper
   end
 
   def user_menu
+    user_info = link_to '个人资料', edit_user_registration_path
     sign_out = link_to '退出', destroy_user_session_path
 
     html = <<-HTML
@@ -34,6 +35,7 @@ module ApplicationHelper
           <b class="caret"></b>
         </a>
         <ul class="dropdown-menu">
+          <li class="first">#{user_info}</li>
           <li class="last">#{sign_out}</li>
         </ul>
       <li>
