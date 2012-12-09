@@ -1,9 +1,9 @@
 {
    "timeline":
    {
-      "headline" : "中国历史大事年表",
+      "headline" : "中国大事年表",
       "type":"default",
-      "text":"记录自夏朝到澳门回归期间主要历史大事",
+      "text":"记录自夏朝到澳门回归期间主要历史事件",
       "startDate":"-2070",
        "date": [
            {
@@ -86,7 +86,7 @@
                "startDate":"25",
                "headline":"东汉建立",
                "text":"<p>东汉建立。</p>"
-           },           
+           },
 	   {
                "startDate":"73",
                "headline":"班超出使西域",
@@ -111,7 +111,7 @@
                "startDate":"184",
                "headline":"张角领导黄巾起义",
                "text":"<p>张角领导黄巾起义。</p>"
-           },           
+           },
 	   {
                "startDate":"200",
                "headline":"官渡之战",
@@ -154,8 +154,8 @@
            },
            {
                "startDate":"280",
-               "headline":"东晋灭吴",
-               "text":"<p>东晋灭吴。</p>"
+               "headline":"西晋灭吴",
+               "text":"<p>西晋灭吴。</p>"
            },
 	   {
                "startDate":"316",
@@ -238,8 +238,8 @@
            },
            {
                "startDate":"916",
-               "headline":"阿保机建立契丹国",
-               "text":"<p>阿保机建立契丹国。</p>"
+               "headline":"耶律阿保机建立契丹国",
+               "text":"<p>耶律阿保机建立契丹国。</p>"
            },
 	   {
                "startDate":"960",
@@ -253,12 +253,12 @@
            },
            {
                "startDate":"1038",
-               "headline":"元昊建立西夏",
-               "text":"<p>元昊建立西夏。</p>"
+               "headline":"李元昊建立西夏",
+               "text":"<p>李元昊建立西夏。</p>"
            },
            {
                "startDate":"1040",
-               "endDate":"1060", 
+               "endDate":"1060",
                "headline":"毕升发明活字印刷术",
                "text":"<p>11世纪中期，毕升发明活字印刷术。</p>"
            },
@@ -269,8 +269,8 @@
            },
            {
                "startDate":"1115",
-               "headline":"阿骨打建立金",
-               "text":"<p>阿骨打建立金。</p>"
+               "headline":"完颜阿骨打建立金",
+               "text":"<p>完颜阿骨打建立金。</p>"
            },
            {
                "startDate":"1125",
