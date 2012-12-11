@@ -1,30 +1,30 @@
 class User
-  include Mongoid::Document
+  include MongoMapper::Document
 
   devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :trackable, :validatable,
          :encryptable
 
   ## Database authenticatable
-  field :user_name,  :type => String, :default => ""
-  field :email,              :type => String, :default => ""
-  field :encrypted_password, :type => String, :default => ""
+  key :user_name, String, :default => ""
+  key :email, String, :default => ""
+  key :encrypted_password, String, :default => ""
 
   ## Recoverable
-  field :reset_password_token,   :type => String
-  field :reset_password_sent_at, :type => Time
+  key :reset_password_token, String
+  key :reset_password_sent_at, Time
 
   ## Rememberable
-  field :remember_created_at, :type => Time
+  key :remember_created_at, Time
 
   ## Trackable
-  field :sign_in_count,      :type => Integer, :default => 0
-  field :current_sign_in_at, :type => Time
-  field :last_sign_in_at,    :type => Time
-  field :current_sign_in_ip, :type => String
-  field :last_sign_in_ip,    :type => String
+  key :sign_in_count, Integer, :default => 0
+  key :current_sign_in_at, Time
+  key :last_sign_in_at, Time
+  key :current_sign_in_ip, String
+  key :last_sign_in_ip, String
 
-  field :password_salt, :type => String
+  key :password_salt, String
 
   validates_presence_of :user_name
   validates_uniqueness_of :user_name

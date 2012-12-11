@@ -3,8 +3,8 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.8'
 gem 'jquery-rails'
 
-gem "mongoid", "~> 3.0.0"
-gem 'mongoid_rails_migrations'
+gem 'mongo_mapper'
+gem 'bson_ext'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
@@ -23,3 +23,4 @@ gem 'bootstrap-sass', '~> 2.1.1.0'
 
 gem 'devise'
 gem 'devise-encryptable'
+gem 'mm-devise'

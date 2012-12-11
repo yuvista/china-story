@@ -62,6 +62,10 @@ module ChinaStory
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+
+    config.generators do |g|
+      g.orm :mongo_mapper
+    end
   end
 end
 

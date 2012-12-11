@@ -32,6 +32,10 @@ GEM
     arel (3.0.2)
     bcrypt-ruby (3.0.1)
     bootstrap-sass (2.1.1.0)
+    bson (1.8.0)
+      activesupport
+    bson_ext (1.8.0)
+      bson (~> 1.8.0)
     builder (3.0.4)
     capybara (2.0.1)
       mime-types (>= 1.16)
@@ -81,21 +85,20 @@ GEM
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
     mime-types (1.19)
-    mongoid (3.0.14)
-      activemodel (~> 3.1)
-      moped (~> 1.1)
-      origin (~> 1.0)
-      tzinfo (~> 0.3.22)
-    mongoid_rails_migrations (1.0.0)
-      activesupport (>= 3.2.0)
-      bundler (>= 1.0.0)
-      rails (>= 3.2.0)
-      railties (>= 3.2.0)
-    moped (1.3.1)
+    mm-devise (2.0)
+      devise (>= 1.2)
+      mongo_mapper (>= 0.9.0)
+    mongo (1.8.0)
+      bson (~> 1.8.0)
+    mongo_mapper (0.12.0)
+      activemodel (~> 3.0)
+      activesupport (~> 3.0)
+      plucky (~> 0.5.2)
     multi_json (1.4.0)
     nokogiri (1.5.5)
-    origin (1.0.11)
     orm_adapter (0.4.0)
+    plucky (0.5.2)
+      mongo (~> 1.5)
     polyglot (0.3.3)
     rack (1.4.1)
     rack-cache (1.2)
@@ -168,14 +171,15 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap-sass (~> 2.1.1.0)
+  bson_ext
   capybara
   coffee-rails (~> 3.2.1)
   devise
   devise-encryptable
   factory_girl_rails
   jquery-rails
-  mongoid (~> 3.0.0)
-  mongoid_rails_migrations
+  mm-devise
+  mongo_mapper
   rails (= 3.2.8)
   rspec-rails (~> 2.0)
   sass-rails (~> 3.2.3)

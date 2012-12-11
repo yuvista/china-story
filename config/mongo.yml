@@ -1,0 +1,19 @@
+defaults: &defaults
+  host: 127.0.0.1
+  port: 27017
+
+development:
+  <<: *defaults
+  database: china_story_development
+
+test:
+  <<: *defaults
+  database: china_story_test
+
+# set these environment variables on your prod server
+production:
+  host: <%= JSON.parse(ENV['VCAP_SERVICES'])['mongodb-2.0'].first['credentials']['hostname'] rescue 'localhost' %>
+  port: <%= JSON.parse(ENV['VCAP_SERVICES'])['mongodb-2.0'].first['credentials']['port'] rescue 27017 %>
+  database: <%= JSON.parse(ENV['VCAP_SERVICES'])['mongodb-2.0'].first['credentials']['db'] rescue 'china_story' %>
+  username: <%= JSON.parse(ENV['VCAP_SERVICES'])['mongodb-2.0'].first['credentials']['username'] rescue '' %>
+  password: <%= JSON.parse(ENV['VCAP_SERVICES'])['mongodb-2.0'].first['credentials']['password'] rescue '' %>

@@ -1,5 +1,5 @@
 zh:
-  mongoid:
+  mongo_mapper:
     errors:
       models:
         user:
