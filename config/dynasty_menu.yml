@@ -1,0 +1,36 @@
+-
+  title: 夏商周
+  controller: home
+  action: index
+-
+  title: 春秋战国
+  controller: home
+  action: index
+-
+  title: 秦汉
+  controller: home
+  action: index
+-
+  title: 三国
+  controller: home
+  action: index
+-
+  title: 魏晋南北朝
+  controller: home
+  action: index
+-
+  title: 隋唐
+  controller: home
+  action: index
+-
+  title: 五代十国
+  controller: home
+  action: index
+-
+  title: 宋元明清
+  controller: home
+  action: index
+-
+  title: 历代纪元表
+  controller: eras
+  action: index

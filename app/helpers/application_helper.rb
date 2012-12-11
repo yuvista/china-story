@@ -14,9 +14,20 @@ module ApplicationHelper
   end
 
   def dynasty_menu
-    dynasties = YAML.load_file 'config/navs.yml'
+    dynasties = YAML.load_file 'config/dynasty_menu.yml'
+
     dynasties.map do |dynasty|
-      content_tag :li, link_to(dynasty, :controller => '/home')
+      style_class = ''
+      if dynasty['controller'] != 'home' and
+        controller_name == dynasty['controller'] and
+        action_name == dynasty['action']
+        style_class = 'active'
+      end
+
+      content_tag :li, link_to(dynasty['title'],
+          :controller => dynasty['controller'],
+          :action => dynasty['action']
+        ),:class => style_class
     end.join.html_safe
   end
 
