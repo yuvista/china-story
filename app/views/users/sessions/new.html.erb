@@ -13,9 +13,6 @@
     %>
     <%= f.check_box :remember_me, :class => 'remember_me' %>
     <%= f.label :remember_me, '记住登录状态' %>
-    <%= link_to '忘记密码？', new_password_path(resource_name),
-      :class => 'forget_password'
-    %>
     <div><%= f.submit "登录", :class => 'btn btn-primary' %></div>
   <% end %>
 </div>
