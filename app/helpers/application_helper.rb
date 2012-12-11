@@ -25,7 +25,7 @@ module ApplicationHelper
       end
 
       content_tag :li, link_to(dynasty['title'],
-          :controller => dynasty['controller'],
+          :controller => "/#{dynasty['controller']}",
           :action => dynasty['action']
         ),:class => style_class
     end.join.html_safe
