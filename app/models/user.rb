@@ -28,4 +28,6 @@ class User
 
   validates_presence_of :user_name
   validates_uniqueness_of :user_name
+
+  alias assign_attributes attributes=
 end
