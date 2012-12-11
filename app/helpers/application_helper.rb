@@ -16,7 +16,7 @@ module ApplicationHelper
   def dynasty_menu
     dynasties = [
       '夏商周', '春秋战国', '秦汉', '三国', '魏晋南北朝',
-      '隋唐', '五代十国', '宋元明清', '其他'
+      '隋唐', '五代十国', '宋元明清', '历代纪元表'
     ]
 
     dynasties.map do |dynasty|
