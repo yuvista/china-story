@@ -1,5 +1,4 @@
 # coding: utf-8
-
 module ErasHelper
   def eras_tbody
     eras = YAML.load_file 'data/eras_list.yml'
