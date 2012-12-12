@@ -2,7 +2,7 @@
 
 module ErasHelper
   def eras_tbody
-    eras = YAML.load_file 'config/eras_list.yml'
+    eras = YAML.load_file 'data/eras_list.yml'
 
     eras.map do |era|
       style_class = 'center'

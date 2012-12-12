@@ -14,7 +14,7 @@ module ApplicationHelper
   end
 
   def dynasty_menu
-    dynasties = YAML.load_file 'config/dynasty_menu.yml'
+    dynasties = YAML.load_file 'data/dynasty_menu.yml'
 
     dynasties.map do |dynasty|
       style_class = ''
