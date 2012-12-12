@@ -31,6 +31,10 @@
   controller: home
   action: index
 -
+  title: 民国至今
+  controller: home
+  action: index
+-
   title: 历代纪元表
   controller: eras
   action: index
