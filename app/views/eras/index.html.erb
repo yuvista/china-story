@@ -1,1 +1,16 @@
-<h1>建设中……</h1>
+<%= content_for :head do %>
+  <%= stylesheet_link_tag 'eras', :media => 'all' %>
+<% end %>
+<div class="span10 offset1">
+  <h3 class="offset3">中国历代纪元表</h3>
+  <table class="eras_list table table-bordered">
+    <thead>
+      <tr>
+        <th>朝代</th>
+        <th>起止时间（公元）</th>
+        <th>说明</th>
+      </tr>
+    </thead>
+    <tbody><%= eras_tbody %></tbody>
+  </table>
+</div>

@@ -1,0 +1,373 @@
+-
+  title: '黄帝轩辕氏'
+  range: '前2697～前2599'
+  extra: ''
+-
+  title: '少吴金天氏'
+  range: '前2598～前2515'
+  extra: ''
+-
+  title: '颛顼高阳氏'
+  range: '前2514～前2437'
+  extra: ''
+-
+  title: '帝喾高辛氏'
+  range: '前2436～前2367'
+  extra: ''
+-
+  title: '帝挚高辛氏'
+  range: '前2366～前2358'
+  extra: ''
+-
+  title: '唐尧'
+  range: '前2357～前2258'
+  extra: ''
+-
+  title: '虞舜'
+  range: '前2257～前2208'
+  extra: ''
+-
+  title: '夏'
+  range: '前2207～前1766'
+  extra: ''
+-
+  title: '商'
+  range: '前1765～前1122'
+  extra: ''
+-
+  title: '周'
+  range: '前1121～前249'
+  extra: ''
+-
+  title: '西周'
+  range: '前1121～前771'
+  extra: ''
+  belongs: '周'
+-
+  title: '东周'
+  range: '前770～前249'
+  extra: ''
+  belongs: '周'
+-
+  title: '秦'
+  range: '前248～前207'
+  extra: ''
+-
+  title: '汉'
+  range: '前206～220'
+  extra: ''
+-
+  title: '西汉'
+  range: '前206～8'
+  extra: ''
+  belongs: '汉'
+-
+  title: '王莽新政'
+  range: '8～23'
+  extra: ''
+  belongs: '汉'
+-
+  title: '更始帝'
+  range: '23～25'
+  extra: ''
+  belongs: '汉'
+-
+  title: '东汉'
+  range: '25～220'
+  extra: ''
+  belongs: '汉'
+-
+  title: '三国'
+  range: '220～265'
+  extra: ''
+-
+  title: '魏'
+  range: '220～265'
+  extra: ''
+  belongs: '三国'
+-
+  title: '蜀'
+  range: '221～263'
+  extra: ''
+  belongs: '三国'
+-
+  title: '吴'
+  range: '222～280'
+  extra: ''
+  belongs: '三国'
+-
+  title: '晋'
+  range: '265～420'
+  extra: ''
+-
+  title: '西晋'
+  range: '265～316'
+  extra: ''
+  belongs: '晋'
+-
+  title: '东晋'
+  range: '317～420'
+  extra: ''
+  belongs: '晋'
+-
+  title: '五胡十六国'
+  range: '304～439'
+  extra: ''
+-
+  title: '前赵'
+  range: '304～329'
+  extra: '刘渊国号汉，刘曜改为赵，史称前赵'
+  belongs: '五胡十六国'
+-
+  title: '成汉/前蜀'
+  range: '304～347'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '后赵'
+  range: '319～350'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '前凉'
+  range: '324～376'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '前燕'
+  range: '337～370'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '前秦'
+  range: '351～394'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '后秦'
+  range: '384～417'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '后燕'
+  range: '384～409'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '西秦'
+  range: '385～431'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '后凉'
+  range: '386～403'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '南凉'
+  range: '397～414'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '南燕'
+  range: '398～410'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '西凉'
+  range: '400～420'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '北凉'
+  range: '401～439'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '夏'
+  range: '407～431'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '北燕'
+  range: '409～436'
+  extra: ''
+  belongs: '五胡十六国'
+-
+  title: '南北朝'
+  range: '420～589'
+  extra: ''
+-
+  title: '宋'
+  range: '420～479'
+  extra: ''
+  belongs: '南北朝'
+-
+  title: '齐'
+  range: '479～502'
+  extra: ''
+  belongs: '南北朝'
+-
+  title: '梁'
+  range: '502～557'
+  extra: ''
+  belongs: '南北朝'
+-
+  title: '陈'
+  range: '557～589'
+  extra: ''
+  belongs: '南北朝'
+-
+  title: '北魏'
+  range: '386～534'
+  extra: ''
+  belongs: '南北朝'
+-
+  title: '东魏'
+  range: '534～550'
+  extra: ''
+  belongs: '南北朝'
+-
+  title: '西魏'
+  range: '535～556'
+  extra: ''
+  belongs: '南北朝'
+-
+  title: '北周'
+  range: '557～581'
+  extra: ''
+  belongs: '南北朝'
+-
+  title: '北齐'
+  range: '550～577'
+  extra: ''
+  belongs: '南北朝'
+-
+  title: '隋'
+  range: '581～618'
+  extra: ''
+-
+  title: '隋唐'
+  range: '618～907'
+  extra: ''
+-
+  title: '五代'
+  range: '907～960'
+  extra: ''
+-
+  title: '后梁'
+  range: '907～923'
+  extra: ''
+  belongs: '五代'
+-
+  title: '后唐'
+  range: '923～936'
+  extra: ''
+  belongs: '五代'
+-
+  title: '后晋'
+  range: '936～946'
+  extra: ''
+  belongs: '五代'
+-
+  title: '后汉'
+  range: '947～950'
+  extra: ''
+  belongs: '五代'
+-
+  title: '后周'
+  range: '951～960'
+  extra: ''
+  belongs: '五代'
+-
+  title: '十国'
+  range: '902～979'
+  extra: ''
+-
+  title: '吴'
+  range: '902～937'
+  extra: ''
+  belongs: '十国'
+-
+  title: '前蜀'
+  range: '907～925'
+  extra: ''
+  belongs: '十国'
+-
+  title: '吴越'
+  range: '907～978'
+  extra: ''
+  belongs: '十国'
+-
+  title: '楚'
+  range: '907～951'
+  extra: ''
+  belongs: '十国'
+-
+  title: '南汉'
+  range: '907～971'
+  extra: ''
+  belongs: '十国'
+-
+  title: '闽'
+  range: '909～945'
+  extra: ''
+  belongs: '十国'
+-
+  title: '南平/荆南'
+  range: '924～960'
+  extra: ''
+  belongs: '十国'
+-
+  title: '后蜀'
+  range: '934～965'
+  extra: ''
+  belongs: '十国'
+-
+  title: '南唐'
+  range: '937～975'
+  extra: ''
+  belongs: '十国'
+-
+  title: '北汉'
+  range: '951～979'
+  extra: ''
+  belongs: '十国'
+-
+  title: '宋'
+  range: '960～1279'
+  extra: ''
+-
+  title: '北宋'
+  range: '960～1127'
+  extra: ''
+  belongs: '宋'
+-
+  title: '南宋'
+  range: '1127～1276（降）'
+  extra: ''
+  belongs: '宋'
+-
+  title: '辽'
+  range: '916～1125'
+  extra: '辽建国于907年，国号契丹，916始建年号，937年改国号为辽，983年复称契丹，1066年仍称辽'
+-
+  title: '西夏'
+  range: '1032～1227'
+  extra: ''
+-
+  title: '金'
+  range: '1115～1234'
+  extra: ''
+-
+  title: '元'
+  range: '1206～1368'
+  extra: '铁木真于1206年建国，1271年忽必烈改国号为元，1279年灭南宋'
+-
+  title: '明'
+  range: '1368～1644'
+  extra: '公元1662年永历帝（桂王）被杀，南明灭亡'
+-
+  title: '清'
+  range: '1616～1911'
+  extra: '清建国于1611年，初称后金，1636年改国号为清，1644年入关'
