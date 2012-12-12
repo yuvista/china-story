@@ -1,9 +1,5 @@
 -
-  title: 夏商周
-  controller: home
-  action: index
--
-  title: 春秋战国
+  title: 先秦
   controller: home
   action: index
 -
