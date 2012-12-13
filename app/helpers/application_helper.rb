@@ -38,16 +38,8 @@ module ApplicationHelper
   end
 
   def menu menu_name, menu_id, menu_items
-    menu_size = menu_items.size
     menu_items = menu_items.map do |menu_item|
-      style_class = ''
-      index = menu_items.index menu_item
-      if index == 0
-        style_class = 'first'
-      elsif index == menu_size -1
-        style_class = 'last'
-      end
-      content_tag :li, menu_item, :class => style_class
+      content_tag :li, menu_item
     end.join
 
     html = <<-HTML
