@@ -14,6 +14,11 @@
         <div class="nav-collapse collapse">
           <ul class="nav">
             <%= dynasty_menu %>
+            <%= menu '其他', 'nav_menu',
+              [
+                link_to('中国历代纪元表', :controller => '/eras')
+              ]
+            %>
           </ul>
           <ul class="nav pull-right">
             <% if user_signed_in? %>
