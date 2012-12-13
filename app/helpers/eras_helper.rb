@@ -1,9 +1,9 @@
 # coding: utf-8
 module ErasHelper
-  def eras_tbody
+  def eras_list_table
     eras = YAML.load_file 'data/eras_list.yml'
 
-    eras.map do |era|
+    table_body =  eras.map do |era|
       html =<<-HTML
         <tr>
           <td class="#{era['belongs'].blank? ? '' : 'sub'}">
@@ -13,6 +13,20 @@ module ErasHelper
           <td>#{era['extra']}</td>
         </tr>
       HTML
-    end.join.html_safe
+    end.join
+
+    html = <<-HTML
+      <table class="eras_list table table-bordered">
+        <thead>
+          <tr>
+            <th>朝代</th>
+            <th>起止时间（公元）</th>
+            <th>说明</th>
+          </tr>
+        </thead>
+        <tbody>#{table_body}</tbody>
+    HTML
+
+    html.html_safe
   end
 end
