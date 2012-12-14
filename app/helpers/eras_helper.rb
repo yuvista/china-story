@@ -24,6 +24,7 @@ module ErasHelper
               <th>使用时间</th>
               <th>开始时间（干支）</th>
               <th>起止时间（公元）</th>
+              <th>说明</th>
             </tr>
           </thead>
           <tbody>#{eras_kings_tbody dynasty['kings']}</tbody>
@@ -46,6 +47,7 @@ module ErasHelper
               <td>#{reign_title['years']}</td>
               <td>#{reign_title['ganzhi_start']}</td>
               <td>#{reign_title['range']}</td>
+              <td>#{reign_title['extra']}</td>
             </tr>
           HTML
         end.join
@@ -53,6 +55,8 @@ module ErasHelper
         html = <<-HTML
           <tr>
             <td>#{king['name']}</td>
+            <td></td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
