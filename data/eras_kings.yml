@@ -114,7 +114,7 @@ shang_late_stage:
       reign_titles:
         -
           years: 59
-          range: '前1300—前1251'
+          range: '前1250—前1192'
     -
       name: '祖庚'
       reign_titles:
@@ -138,7 +138,7 @@ shang_late_stage:
       reign_titles:
         -
           years: 26
-          range: '前1101—前1076'
+          range: '前1112—前1102'
     -
       name: '帝乙'
       reign_titles:
@@ -459,3 +459,535 @@ qin:
           years: 3
           ganzhi_start: '壬辰'
           range: '前209'
+han:
+  dynasty: '汉'
+  range: '前206——220'
+  children:
+    xi_han:
+      dynasty: '西汉'
+      range: '前206——25'
+      extra: '包括王莽（9—23）和更始帝（23—25）'
+      kings:
+        -
+          name: '高祖（刘邦）'
+          reign_titles:
+            -
+              years: 12
+              ganzhi_start: '乙未'
+              range: '前206'
+        -
+          name: '惠帝（刘盈）'
+          reign_titles:
+            -
+              years: 7
+              ganzhi_start: '丁未'
+              range: '前194'
+        -
+          name: '高后（吕雉）'
+          reign_titles:
+            -
+              years: 8
+              ganzhi_start: '甲寅'
+              range: '前187'
+        -
+          name: '文帝（刘恒）'
+          reign_titles:
+            -
+              years: 16
+              ganzhi_start: '壬戌'
+              range: '前179'
+            -
+              title: '后元'
+              years: 7
+              ganzhi_start: '戊寅'
+              range: '前163'
+        -
+          name: '景帝（刘启）'
+          reign_titles:
+            -
+              years: 7
+              ganzhi_start: '乙酉'
+              range: '前156'
+            -
+              title: '中元'
+              years: 6
+              ganzhi_start: '壬辰'
+              range: '前149'
+            -
+              title: '后元'
+              years: 3
+              ganzhi_start: '戊戌'
+              range: '前143'
+        -
+          name: '武帝（刘彻）'
+          reign_titles:
+            -
+              title: '建元'
+              years: 6
+              ganzhi_start: '辛丑'
+              range: '前140'
+            -
+              title: '元光'
+              years: 6
+              ganzhi_start: '丁未'
+              range: '前134'
+            -
+              title: '元朔'
+              years: 6
+              ganzhi_start: '癸丑'
+              range: '前128'
+            -
+              title: '元狩'
+              years: 6
+              ganzhi_start: '己未'
+              range: '前122'
+            -
+              title: '元鼎'
+              years: 6
+              ganzhi_start: '乙丑'
+              range: '前116'
+            -
+              title: '元封'
+              years: 6
+              ganzhi_start: '辛未'
+              range: '前110'
+            -
+              title: '太初'
+              years: 4
+              ganzhi_start: '丁丑'
+              range: '前104'
+            -
+              title: '天汉'
+              years: 4
+              ganzhi_start: '天汉'
+              range: '前100'
+            -
+              title: '太始'
+              years: 4
+              ganzhi_start: '乙酉'
+              range: '前96'
+            -
+              title: '征和'
+              years: 4
+              ganzhi_start: '己丑'
+              range: '前92'
+            -
+              title: '后元'
+              years: 2
+              ganzhi_start: '癸巳'
+              range: '前88'
+        -
+          name: '昭帝（刘弗陵）'
+          reign_titles:
+            -
+              title: '始元'
+              years: 7
+              ganzhi_start: '乙未'
+              range: '前86'
+            -
+              title: '元凤'
+              years: 6
+              ganzhi_start: '辛丑（八月）'
+              range: '前80'
+            -
+              title: '元平'
+              years: 1
+              ganzhi_start: '丁未'
+              range: '前74'
+        -
+          name: '宣帝（刘询）'
+          reign_titles:
+            -
+              title: '本始'
+              years: 4
+              ganzhi_start: '戊申'
+              range: '前73'
+            -
+              title: '地节'
+              years: 4
+              ganzhi_start: '壬子'
+              range: '前69'
+            -
+              title: '元康'
+              years: 5
+              ganzhi_start: '丙辰'
+              range: '前65'
+            -
+              title: '神爵'
+              years: 4
+              ganzhi_start: '庚申（三月）'
+              range: '前61'
+            -
+              title: '五凤'
+              years: 4
+              ganzhi_start: '甲子'
+              range: '前57'
+            -
+              title: '甘露'
+              years: 4
+              ganzhi_start: '戊辰'
+              range: '前53'
+            -
+              title: '黄龙'
+              years: 1
+              ganzhi_start: '壬申'
+              range: '前49'
+        -
+          name: '元帝（刘奭（shì））'
+          reign_titles:
+            -
+              title: '初元'
+              years: 5
+              ganzhi_start: '癸酉'
+              range: '前48'
+            -
+              title: '永光'
+              years: 5
+              ganzhi_start: '戊寅'
+              range: '前43'
+            -
+              title: '建昭'
+              years: 5
+              ganzhi_start: '癸未'
+              range: '前38'
+            -
+              title: '竟宁'
+              years: 1
+              ganzhi_start: '戊子'
+              range: '前33'
+        -
+          name: '成帝（刘骜（ào））'
+          reign_titles:
+            -
+              title: '建始'
+              years: 4
+              ganzhi_start: '己丑'
+              range: '前32'
+            -
+              title: '河平'
+              years: 4
+              ganzhi_start: '癸巳（三月）'
+              range: '前28'
+            -
+              title: '阳朔'
+              years: 4
+              ganzhi_start: '丁酉'
+              range: '前24'
+            -
+              title: '鸿嘉'
+              years: 4
+              ganzhi_start: '辛丑'
+              range: '前20'
+            -
+              title: '永始'
+              years: 4
+              ganzhi_start: '乙巳'
+              range: '前16'
+            -
+              title: '元延'
+              years: 4
+              ganzhi_start: '己酉'
+              range: '前12'
+            -
+              title: '绥和'
+              years: 2
+              ganzhi_start: '癸丑'
+              range: '前8'
+        -
+          name: '哀帝（刘欣）'
+          reign_titles:
+            -
+              title: '建平'
+              years: 4
+              ganzhi_start: '乙卯'
+              range: '前6'
+            -
+              title: '元寿'
+              years: 2
+              ganzhi_start: '己未'
+              range: '前2'
+        -
+          name: '平帝（刘衍）'
+          reign_titles:
+            -
+              title: '元始'
+              years: 5
+              ganzhi_start: '辛酉'
+              range: '1'
+        -
+          name: '孺子婴（王莽摄政）'
+          reign_titles:
+            -
+              title: '居摄'
+              years: 3
+              ganzhi_start: '丙寅'
+              range: '6'
+            -
+              title: '初始'
+              years: 1
+              ganzhi_start: '戊辰（十一月）'
+              range: '8'
+        -
+          name: '（新）王莽'
+          reign_titles:
+            -
+              title: '始建国'
+              years: 5
+              ganzhi_start: '己巳'
+              range: '9'
+            -
+              title: '天凤'
+              years: 6
+              ganzhi_start: '甲戌'
+              range: '14'
+            -
+              title: '地皇'
+              years: 4
+              ganzhi_start: '庚辰'
+              range: '20'
+        -
+          name: '更始帝（刘玄）'
+          reign_titles:
+            -
+              title: '更始'
+              years: 3
+              ganzhi_start: '癸未（二月）'
+              range: '23'
+    dong_han:
+      dynasty: '东汉'
+      range: '25—220'
+      kings:
+        -
+          name: '光武帝（刘秀）'
+          reign_titles:
+            -
+              title: '建武'
+              years: 32
+              ganzhi_start: '乙酉（六月）'
+              range: '25'
+            -
+              title: '建武中元'
+              years: 2
+              ganzhi_start: '丙辰（四月）'
+              range: '56'
+        -
+          name: '明帝（刘庄）'
+          reign_titles:
+            -
+              title: '永平'
+              years: 18
+              ganzhi_start: '戊午'
+              range: 58
+        -
+          name: '章帝（刘炟（dá））'
+          reign_titles:
+            -
+              title: '建初'
+              years: 9
+              ganzhi_start: '丙子'
+              range: '76'
+            -
+              title: '元和'
+              years: 4
+              ganzhi_start: '甲申（八月）'
+              range: '84'
+            -
+              title: '章和'
+              years: 2
+              ganzhi_start: '丁亥（七月）'
+              range: '87'
+        -
+          name: '和帝（刘肇）'
+          reign_titles:
+            -
+              title: '永元'
+              years: 17
+              ganzhi_start: '己丑'
+              range: '89'
+            -
+              title: '元兴'
+              years: 1
+              ganzhi_start: '乙巳（四月）'
+              range: '105'
+        -
+          name: '殇（shāng）帝（刘隆）'
+          reign_titles:
+            -
+              title: '延平'
+              years: 1
+              ganzhi_start: '丙午'
+              range: '106'
+        -
+          name: '安帝（刘祜（hù））'
+          reign_titles:
+            -
+              title: '永初'
+              years: 7
+              ganzhi_start: '丁未'
+              range: '107'
+            -
+              title: '元初'
+              years: 7
+              ganzhi_start: '甲寅'
+              range: '114'
+            -
+              title: '永宁'
+              years: 2
+              ganzhi_start: '庚申（四月）'
+              range: '120'
+            -
+              title: '建光'
+              years: 2
+              ganzhi_start: '辛酉（七月）'
+              range: '121'
+            -
+              title: '延光'
+              years: 4
+              ganzhi_start: '壬戌（三月）'
+              range: '122'
+        -
+          name: '顺帝（刘保）'
+          reign_titles:
+            -
+              title: '永建'
+              years: 7
+              ganzhi_start: '丙寅'
+              range: '126'
+            -
+              title: '阳嘉'
+              years: 4
+              ganzhi_start: '壬申（三月）'
+              range: '132'
+            -
+              title: '永和'
+              years: 6
+              ganzhi_start: '丙子'
+              range: '136'
+            -
+              title: '汉安'
+              years: 3
+              ganzhi_start: '壬午'
+              range: '142'
+            -
+              title: '建康'
+              years: 1
+              ganzhi_start: '甲申（四月）'
+              range: '144'
+        -
+          name: '冲帝（刘炳）'
+          reign_titles:
+            -
+              title: '永憙（xī）（嘉）'
+              years: 1
+              ganzhi_start: '乙酉'
+              range: '145'
+        -
+          name: '质帝（刘缵（zuǎn））'
+          reign_titles:
+            -
+              title: '本初'
+              years: 1
+              ganzhi_start: '丙戌'
+              range: '146'
+        -
+          name: '桓帝（刘志）'
+          reign_titles:
+            -
+              title: '建和'
+              years: 3
+              ganzhi_start: '丁亥'
+              range: '147'
+            -
+              title: '和平'
+              years: 1
+              ganzhi_start: '庚寅'
+              range: '150'
+            -
+              title: '元嘉'
+              years: 3
+              ganzhi_start: '辛卯'
+              range: '151'
+            -
+              title: '永兴'
+              years: 2
+              ganzhi_start: '癸巳（五月）'
+              range: '153'
+            -
+              title: '永寿'
+              years: 4
+              ganzhi_start: '乙未'
+              range: '155'
+            -
+              title: '延熹'
+              years: 10
+              ganzhi_start: '戊戌（六月）'
+              range: '158'
+            -
+              title: '永康'
+              years: 1
+              ganzhi_start: '丁未（六月）'
+              range: '167'
+        -
+          name: '灵帝（刘宏）'
+          reign_titles:
+            -
+              title: '建宁'
+              years: 5
+              ganzhi_start: '戊申'
+              range: '168'
+            -
+              title: '熹平'
+              years: 7
+              ganzhi_start: '壬子（五月）'
+              range: '172'
+            -
+              title: '光和'
+              years: 7
+              ganzhi_start: '戊午（三月）'
+              range: '178'
+            -
+              title: '中平'
+              years: 6
+              ganzhi_start: '甲子（十二月）'
+              range: '184'
+        -
+          name: '少帝（刘辩）'
+          reign_titles:
+            -
+              title: '光熹昭宁'
+              years: 1
+              ganzhi_start: '己巳'
+              range: '189'
+        -
+          name: '献帝（刘协）'
+          reign_titles:
+            -
+              title: '永兴'
+              years: 1
+              ganzhi_start: '己巳'
+              range: '189'
+            -
+              title: '中平'
+              years: 1
+              ganzhi_start: '己巳'
+              range: '189'
+            -
+              title: '初平'
+              years: 4
+              ganzhi_start: '庚午'
+              range: '190'
+            -
+              title: '兴平'
+              years: 2
+              ganzhi_start: '甲戌'
+              range: '194'
+            -
+              title: '建安'
+              years: 25
+              ganzhi_start: '丙子'
+              range: '196'
+            -
+              title: '延康'
+              years: 1
+              ganzhi_start: '庚子（三月）'
+              range: '220'
