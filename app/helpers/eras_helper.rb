@@ -12,8 +12,8 @@ module ErasHelper
     html = <<-HTML
       <section id="#{options[:key]}">
         <div class="page-header">
-          <h3>#{options[:main_title]}</h4>
-          <h4>#{options[:slave_title]}</h5>
+          <h3>#{options[:main_title]}</h3>
+          <h4>#{options[:slave_title]}</h4>
         </div>
         <h5>#{dynasty['extra']}</h5>
         <table class="table table-bordered">
@@ -29,7 +29,7 @@ module ErasHelper
           </thead>
           <tbody>#{eras_kings_tbody dynasty['kings']}</tbody>
         </table>
-      </setion>
+      </section>
     HTML
   end
 
