@@ -31,12 +31,6 @@ module ApplicationHelper
     end.join.html_safe
   end
 
-  def user_menu
-    user_info = link_to '个人资料', edit_user_registration_path
-    sign_out = link_to '退出', destroy_user_session_path
-    menu current_user.user_name, 'user_menu', [user_info, sign_out]
-  end
-
   def menu menu_name, menu_id, menu_items
     menu_items = menu_items.map do |menu_item|
       content_tag :li, menu_item
