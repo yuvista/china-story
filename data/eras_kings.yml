@@ -1,0 +1,461 @@
+wu_di:
+  dynasty: '五帝'
+  range: '约前26世纪初——约前21世纪初'
+  kings:
+    -
+      name: '黄帝'
+    -
+      name: '颛顼（zhuānxū）'
+    -
+      name: '帝喾（kù）'
+    -
+      name: '尧'
+    -
+      name: '舜'
+xia:
+  dynasty: '夏'
+  range: '前2070——前1600'
+  kings:
+    -
+      name: '禹'
+    -
+      name: '启'
+    -
+      name: '少康'
+    -
+      name: '仲康'
+    -
+      name: '相'
+    -
+      name: '少康'
+    -
+      name: '杼'
+    -
+      name: '槐'
+    -
+      name: '芒'
+    -
+      name: '泄'
+    -
+      name: '不降'
+    -
+      name: '扃（jiōng）'
+    -
+      name: '廑（jǐn）'
+    -
+      name: '孔甲'
+    -
+      name: '皋'
+    -
+      name: '发'
+    -
+      name: '履癸（桀）'
+shang_prophase:
+  dynasty: '商前期'
+  range: '前1600——前1300'
+  kings:
+    -
+      name: '汤'
+    -
+      name: '太丁'
+    -
+      name: '外丙'
+    -
+      name: '仲壬'
+    -
+      name: '太甲'
+    -
+      name: '沃丁'
+    -
+      name: '太庚'
+    -
+      name: '小甲'
+    -
+      name: '雍己'
+    -
+      name: '太戊'
+    -
+      name: '仲丁'
+    -
+      name: '外壬'
+    -
+      name: '河亶（dǎn）甲'
+    -
+      name: '祖乙'
+    -
+      name: '祖辛'
+    -
+      name: '沃甲'
+    -
+      name: '祖丁'
+    -
+      name: '南庚'
+    -
+      name: '阳甲'
+    -
+      name: '盘庚（迁殷前）'
+shang_late_stage:
+  dynasty: '商后期'
+  range: '前1300——前1046'
+  extra: '盘庚迁都于殷后，商也称殷'
+  kings:
+    -
+      name: '盘庚（迁殷后）'
+      reign_titles:
+        -
+          years: 50
+          range: '前1300—前1251'
+    -
+      name: '小辛'
+    -
+      name: '小乙'
+    -
+      name: '武丁'
+      reign_titles:
+        -
+          years: 59
+          range: '前1300—前1251'
+    -
+      name: '祖庚'
+      reign_titles:
+        -
+          years: 44
+          range: '前1191—前1148'
+    -
+      name: '祖甲'
+    -
+      name: '廪辛'
+    -
+      name: '康丁'
+    -
+      name: '武乙'
+      reign_titles:
+        -
+          years: 35
+          range: '前1147—前1113'
+    -
+      name: '太丁（文丁）'
+      reign_titles:
+        -
+          years: 26
+          range: '前1101—前1076'
+    -
+      name: '帝乙'
+      reign_titles:
+        -
+          years: 26
+          range: '前1101—前1076'
+    -
+      name: '帝辛（纣）'
+      reign_titles:
+        -
+          years: 30
+          range: '前1075—前1046'
+zhou:
+  dynasty: '周'
+  range: '前1046——前256'
+  children:
+    xi_zhou:
+      dynasty: '西周'
+      range: '前1046——前771'
+      kings:
+        -
+          name: '武王（姬发）'
+          reign_titles:
+            -
+              years: 4
+              range: '前1046—前1043'
+        -
+          name: '成王（姬诵）'
+          reign_titles:
+            -
+              years: 22
+              range: '前1042—前1021'
+        -
+          name: '康王（姬钊）'
+          reign_titles:
+            -
+              years: 25
+              range: '前1020—前996'
+        -
+          name: '昭王（姬瑕）'
+          reign_titles:
+            -
+              years: 19
+              range: '前995—前977'
+        -
+          name: '穆王（姬满）'
+          reign_titles:
+            -
+              years: '55'
+              range: '前976—前922'
+        -
+          name: '共王（姬繄（yī）扈）'
+          reign_titles:
+            -
+              years: 23
+              range: '前922—前900'
+        -
+          name: '懿王（姬囏（jiān））'
+          reign_titles:
+            -
+              years: 8
+              range: '前899—前892'
+        -
+          name: '孝王（姬辟方）'
+          reign_titles:
+            -
+              years: 6
+              range: '前891—前886'
+        -
+          name: '夷王（姬燮（xiè））'
+          reign_titles:
+            -
+              years: 8
+              range: '前885—前878'
+        -
+          name: '厉王（姬胡）'
+          reign_titles:
+            -
+              years: 37
+              range: '前877—前841'
+        -
+          name: '[共和]'
+          reign_titles:
+            -
+              years: 14
+              ganzhi_start: '庚申'
+              range: '前841'
+        -
+          name: '宣王（姬静）'
+          reign_titles:
+            -
+              years: 46
+              ganzhi_start: '甲戌'
+              range: '前827'
+        -
+          name: '宣王（姬宫湦（shēng））'
+          reign_titles:
+            -
+              years: 11
+              ganzhi_start: '庚申'
+              range: '前781'
+    dong_zhou:
+      dynasty: '东周'
+      range: '前770——前256'
+      kings:
+        -
+          name: '平王（姬宜臼）'
+          reign_titles:
+            -
+              years: 51
+              ganzhi_start: '辛末'
+              range: '前770'
+        -
+          name: '桓王（姬林）'
+          reign_titles:
+            -
+              years: 23
+              ganzhi_start: '壬戊'
+              range: '前719'
+        -
+          name: '庄王（姬佗（tuó））'
+          reign_titles:
+            -
+              years: 15
+              ganzhi_start: '乙酉'
+              range: '前696'
+        -
+          name: '釐王（姬胡齐）'
+          reign_titles:
+            -
+              years: 5
+              ganzhi_start: '庚子'
+              range: '前681'
+        -
+          name: '惠王（姬阆（làng））'
+          reign_titles:
+            -
+              years: 25
+              ganzhi_start: '乙巳'
+              range: '前676'
+        -
+          name: '襄王（姬郑）'
+          reign_titles:
+            -
+              years: 33
+              ganzhi_start: '庚午'
+              range: '前651'
+        -
+          name: '顷王（姬壬臣）'
+          reign_titles:
+            -
+              years: 6
+              ganzhi_start: '癸卯'
+              range: '前618'
+        -
+          name: '匡王（姬班）'
+          reign_titles:
+            -
+              years: 6
+              ganzhi_start: '己酉'
+              range: '前612'
+        -
+          name: '定王（姬瑜）'
+          reign_titles:
+            -
+              years: 21
+              ganzhi_start: '乙卯'
+              range: '前606'
+        -
+          name: '简王（姬夷）'
+          reign_titles:
+            -
+              years: 14
+              ganzhi_start: '丙子'
+              range: '前585'
+        -
+          name: '灵王（姬泄心）'
+          reign_titles:
+            -
+              years: 27
+              ganzhi_start: '庚寅'
+              range: '前571'
+        -
+          name: '景王（姬贵）'
+          reign_titles:
+            -
+              years: 25
+              ganzhi_start: '丁巳'
+              range: '前544'
+        -
+          name: '悼王（姬猛）'
+          reign_titles:
+            -
+              years: 1
+              ganzhi_start: '辛巳'
+              range: '前520'
+        -
+          name: '敬王（姬匄（gài））'
+          reign_titles:
+            -
+              years: 44
+              ganzhi_start: '壬午'
+              range: '前519'
+        -
+          name: '元王（姬仁）'
+          reign_titles:
+            -
+              years: 7
+              ganzhi_start: '丙寅'
+              range: '前475'
+        -
+          name: '贞定王（姬介）'
+          reign_titles:
+            -
+              years: 28
+              ganzhi_start: '癸酉'
+              range: '前468'
+        -
+          name: '哀王（姬去疾）'
+          reign_titles:
+            -
+              years: 1
+              ganzhi_start: '庚子'
+              range: '前441'
+        -
+          name: '思王（姬叔）'
+          reign_titles:
+            -
+              years: 1
+              ganzhi_start: '庚子'
+              range: '前441'
+        -
+          name: '考王（姬嵬（wéi））'
+          reign_titles:
+            -
+              years: 15
+              ganzhi_start: '辛丑'
+              range: '前440'
+        -
+          name: '威烈王（姬午）'
+          reign_titles:
+            -
+              years: 24
+              ganzhi_start: '丙辰'
+              range: '前425'
+        -
+          name: '安王（姬骄）'
+          reign_titles:
+            -
+              years: 26
+              ganzhi_start: '庚辰'
+              range: '前401'
+        -
+          name: '烈王（姬喜）'
+          reign_titles:
+            -
+              years: 7
+              ganzhi_start: '丙午'
+              range: '前375'
+        -
+          name: '显王（姬扁）'
+          reign_titles:
+            -
+              years: 48
+              ganzhi_start: '癸丑'
+              range: '前368'
+        -
+          name: '慎靓（jìng）王（姬定）'
+          reign_titles:
+            -
+              years: 6
+              ganzhi_start: '辛丑'
+              range: '前320'
+        -
+          name: '赧（nǎn）王（姬延）'
+          reign_titles:
+            -
+              years: 59
+              ganzhi_start: '丁未'
+              range: '前314'
+qin:
+  dynasty: '秦'
+  range: '前221——前206'
+  extra: '周赧王59年乙巳(前256)，秦灭周。自次年(秦昭襄王52年丙午，前255)起至秦王政25年己卯(前222)，史家以秦王纪年。秦王政26年庚辰(前221)完成统一，称始皇帝。'
+  kings:
+    -
+      name: '昭襄王(嬴则，又名稷)'
+      reign_titles:
+        -
+          years: 56
+          ganzhi_start: '乙卯'
+          range: '前306'
+    -
+      name: '孝文王(嬴柱)'
+      reign_titles:
+        -
+          years: 1
+          ganzhi_start: '辛亥'
+          range: '前250'
+    -
+      name: '庄襄王(嬴子楚)'
+      reign_titles:
+        -
+          years: 3
+          ganzhi_start: '壬子'
+          range: '前249'
+    -
+      name: '始皇帝(嬴政)'
+      reign_titles:
+        -
+          years: 37
+          ganzhi_start: '乙卯'
+          range: '前246'
+    -
+      name: '二世皇帝(嬴胡亥)'
+      reign_titles:
+        -
+          years: 3
+          ganzhi_start: '壬辰'
+          range: '前209'

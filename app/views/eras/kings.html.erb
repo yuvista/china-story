@@ -1,0 +1,47 @@
+<%= content_for :head do %>
+  <%= stylesheet_link_tag 'bootstrap_docs', :media => 'all' %>
+<% end %>
+<% @eras_kings = eras_kings %>
+<div class="row">
+  <div class="span3 bs-docs-sidebar">
+    <ul class="nav nav-list bs-docs-sidenav">
+      <%=
+        @eras_kings.map do |key, dynasty|
+          html = <<-HTML
+            <li>
+              <a href="#{'#' + key}">
+                <i class="icon-chevron-right"></i>
+                #{dynasty['dynasty']}
+              </a>
+            </li>
+          HTML
+        end.join.html_safe
+      %>
+    </ul>
+  </div>
+  <div class="span9">
+    <h2 class="offset2">中国历代帝王表</h2>
+    <%=
+      @eras_kings.map do |key, dynasty|
+        if dynasty.has_key? 'children'
+          index = 0
+          dynasty['children'].map do |child_key, child_dynasty|
+            main_title = index == 0  ? "#{dynasty['dynasty']}（#{dynasty['range']}）" : ''
+            index = index + 1
+            eras_dynasty_kings child_dynasty, {
+              :key => child_key,
+              :main_title => main_title,
+              :slave_title => "#{child_dynasty['dynasty']}（#{child_dynasty['range']}）"
+            }
+          end.join
+        else
+          eras_dynasty_kings dynasty, {
+            :key => key,
+            :main_title => "#{dynasty['dynasty']}（#{dynasty['range']}）",
+            :slave_title => ''
+          }
+        end
+      end.join.html_safe
+    %>
+  </div>
+</div>

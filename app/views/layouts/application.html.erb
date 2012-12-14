@@ -16,7 +16,11 @@
             <%= dynasty_menu %>
             <%= menu '其他', 'nav_menu',
               [
-                link_to('中国历代纪元表', :controller => '/eras')
+                link_to('中国历代纪元表', :controller => '/eras'),
+                link_to(
+                  '中国历代帝王表', :controller => '/eras',
+                  :action => 'kings'
+                )
               ]
             %>
           </ul>
