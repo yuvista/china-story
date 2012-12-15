@@ -991,3 +991,217 @@ han:
               years: 1
               ganzhi_start: '庚子（三月）'
               range: '220'
+sanguo:
+  dynasty: '三国'
+  range: '220——280'
+  children:
+    wei:
+      dynasty: '魏'
+      range: '220一265'
+      kings:
+        -
+          name: '文帝(曹丕)'
+          reign_titles:
+            -
+              title: '黄初'
+              years: 7
+              ganzhi_start: '庚子（十月）'
+              range: '220'
+        -
+          name: '明帝（曹叡）'
+          reign_titles:
+            -
+              title: '太和'
+              years: 7
+              ganzhi_start: '丁未'
+              range: '227'
+            -
+              title: '青龙'
+              years: 5
+              ganzhi_start: '癸丑（二月）'
+              range: '233'
+            -
+              title: '景初'
+              years: 3
+              ganzhi_start: '丁巳（三月）'
+              range: '237'
+        -
+          name: '齐王（曹芳）'
+          reign_titles:
+            -
+              title: '正始'
+              years: 10
+              ganzhi_start: '庚申'
+              range: '240'
+            -
+              title: '嘉平'
+              years: 6
+              ganzhi_start: '己巳（四月）'
+              range: '249'
+        -
+          name: '高贵乡公（曹髦（máo））'
+          reign_titles:
+            -
+              title: '正元'
+              years: 3
+              ganzhi_start: '甲戌（十月）'
+              range: '254'
+            -
+              title: '甘露'
+              years: 5
+              ganzhi_start: '丙子（六月）'
+              range: '256'
+        -
+          name: '元帝（曹奂（huàn））（陈留王）'
+          reign_titles:
+            -
+              title: '景元'
+              years: 5
+              ganzhi_start: '庚辰（六月）'
+              range: '260'
+            -
+              title: '咸熙'
+              years: 2
+              ganzhi_start: '甲申（五月）'
+              range: '264'
+    shu:
+      dynasty: '蜀汉'
+      range: '221—263'
+      kings:
+        -
+          name: '昭烈帝（刘备）'
+          reign_titles:
+            -
+              title: '章武'
+              years: 3
+              ganzhi_start: '辛丑（四月）'
+              range: '221'
+        -
+          name: '后主（刘禅（shàn））'
+          reign_titles:
+            -
+              title: '建兴'
+              years: 15
+              ganzhi_start: '癸卯（五月）'
+              range: '223'
+            -
+              title: '延熙'
+              years: 20
+              ganzhi_start: '戊午'
+              range: '238'
+            -
+              title: '景耀'
+              years: 6
+              ganzhi_start: '戊寅'
+              range: '258'
+            -
+              title: '炎兴'
+              years: 1
+              ganzhi_start: '癸未（八月）'
+              range: '263'
+    wu:
+      dynasty: '吴'
+      range: '222—280'
+      kings:
+        -
+          name: '大帝（孙权）'
+          reign_titles:
+            -
+              title: '黄武'
+              years: 8
+              ganzhi_start: '壬寅（十月）'
+              range: '222'
+            -
+              title: '黄龙'
+              years: 3
+              ganzhi_start: '己酉（四月）'
+              range: '229'
+            -
+              title: '嘉禾'
+              years: 7
+              ganzhi_start: '壬子'
+              range: '232'
+            -
+              title: '赤乌'
+              years: 14
+              ganzhi_start: '戊午（九月）'
+              range: '238'
+            -
+              title: '太元'
+              years: 2
+              ganzhi_start: '辛未（五月）'
+              range: '251'
+            -
+              title: '神凤'
+              years: 1
+              ganzhi_start: '壬申（二月）'
+              range: '252'
+        -
+          name: '会稽王（孙亮）'
+          reign_titles:
+            -
+              title: '建兴'
+              years: 2
+              ganzhi_start: '壬申（四月）'
+              range: '252'
+            -
+              title: '五凤'
+              years: 3
+              ganzhi_start: '甲戌'
+              range: '254'
+            -
+              title: '太平'
+              years: 3
+              ganzhi_start: '丙子（十月）'
+              range: '256'
+        -
+          name: '景帝（孙休）'
+          reign_titles:
+            -
+              title: '永安'
+              years: 7
+              ganzhi_start: '戊寅（十月）'
+              range: '258'
+        -
+          name: '末帝（孙皓）（乌程侯）'
+          reign_titles:
+            -
+              title: '元兴'
+              years: 2
+              ganzhi_start: '甲申（七月）'
+              range: '264'
+            -
+              title: '甘露'
+              years: 2
+              ganzhi_start: '乙酉（四月）'
+              range: '265'
+            -
+              title: '宝鼎'
+              years: 4
+              ganzhi_start: '丙戌（八月）'
+              range: '266'
+            -
+              title: '建衡'
+              years: 3
+              ganzhi_start: '己丑（十月）'
+              range: '269'
+            -
+              title: '凤凰'
+              years: 3
+              ganzhi_start: '壬辰'
+              range: '272'
+            -
+              title: '天册'
+              years: 2
+              ganzhi_start: '乙未'
+              range: '275'
+            -
+              title: '天玺'
+              years: 1
+              ganzhi_start: '丙申（七月）'
+              range: '276'
+            -
+              title: '天纪'
+              years: 4
+              ganzhi_start: '丁酉'
+              range: '277'
