@@ -2169,3 +2169,37 @@ nanbeichao:
               years: 1
               ganzhi_start: '辛丑（一月）'
               range: '581'
+sui:
+  dynasty: '隋'
+  range: '581—618'
+  extra: '隋建国于581年，589年灭陈，完成统一'
+  kings:
+    -
+      name: '文帝（杨坚）'
+      reign_titles:
+        -
+          title: '开皇'
+          years: 20
+          ganzhi_start: '辛丑（二月）'
+          range: '581'
+        -
+          title: '仁寿'
+          years: 4
+          ganzhi_start: '辛酉'
+          range: '601'
+    -
+      name: '炀帝（杨广）'
+      reign_titles:
+        -
+          title: '大业'
+          years: 14
+          ganzhi_start: '乙丑'
+          range: '605'
+    -
+      name: '恭帝（杨侑（yòu））'
+      reign_titles:
+        -
+          title: '义宁'
+          years: 2
+          ganzhi_start: '丁丑（十一）'
+          range: '617'
