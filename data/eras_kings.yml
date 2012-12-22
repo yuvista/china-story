@@ -1205,3 +1205,252 @@ sanguo:
               years: 4
               ganzhi_start: '丁酉'
               range: '277'
+jin:
+  dynasty: '晋'
+  range: '265—420'
+  children:
+    xijin:
+      dynasty: '西晋'
+      range: '265—317'
+      kings:
+        -
+          name: '武帝（司马炎）'
+          reign_titles:
+             -
+              title: '泰始'
+              years: 10
+              ganzhi_start: '乙酉（十二月）'
+              range: '265'
+             -
+              title: '咸宁'
+              years: 6
+              ganzhi_start: '乙未'
+              range: '275'
+             -
+              title: '太康'
+              years: 10
+              ganzhi_start: '庚子（十月）'
+              range: '280'
+             -
+              title: '太熙'
+              years: 1
+              ganzhi_start: '庚戌'
+              range: '290'
+        -
+          name: '惠帝（司马衷）'
+          reign_titles:
+            -
+              title: '永熙'
+              years: 1
+              ganzhi_start: '庚戌（四月）'
+              range: '290'
+            -
+              title: '永平'
+              years: 1
+              ganzhi_start: '辛亥'
+              range: '291'
+            -
+              title: '元康'
+              years: 9
+              ganzhi_start: '辛亥（三月）'
+              range: '291'
+            -
+              title: '永康'
+              years: 2
+              ganzhi_start: '庚申'
+              range: '300'
+            -
+              title: '永宁'
+              years: 2
+              ganzhi_start: '辛酉（四月）'
+              range: '301'
+            -
+              title: '太安'
+              years: 2
+              ganzhi_start: '壬戌（十二月）'
+              range: '302'
+            -
+              title: '永安'
+              years: 1
+              ganzhi_start: '甲子'
+              range: '304'
+            -
+              title: '建武'
+              years: 1
+              ganzhi_start: '甲子（七月）'
+              range: '304'
+            -
+              title: '永安'
+              years: 1
+              ganzhi_start: '甲子（十一月）'
+              range: '304'
+            -
+              title: '永兴'
+              years: 3
+              ganzhi_start: '甲子（十二月）'
+              range: '304'
+            -
+              title: '光熙'
+              years: 1
+              ganzhi_start: '丙寅（六月）'
+              range: '306'
+        -
+          name: '怀帝（司马炽（chì））'
+          reign_titles:
+            -
+              title: '永嘉'
+              years: 7
+              ganzhi_start: '丁卯'
+              range: '307'
+        -
+          name: '愍（mǐn）帝（司马邺（yè））'
+          reign_titles:
+            -
+              title: '建兴'
+              years: 5
+              ganzhi_start: '癸酉（四月）'
+              range: '313'
+    dongjin:
+      dynasty: '东晋'
+      range: '317—420'
+      kings:
+        -
+          name: '元帝（司马睿（ruì））'
+          reign_titles:
+            -
+              title: '建武'
+              years: 2
+              ganzhi_start: '丁丑（三月）'
+              range: '317'
+            -
+              title: '大兴'
+              years: 4
+              ganzhi_start: '戊寅（三月）'
+              range: '318'
+            -
+              title: '永昌'
+              years: 2
+              ganzhi_start: '壬午'
+              range: '322'
+        -
+         name: '明帝（司马绍）'
+         reign_titles:
+           -
+            title: '永昌'
+            years: ''
+            ganzhi_start: '壬午（闰十一月）'
+            range: '322'
+           -
+            title: '太宁'
+            years: 4
+            ganzhi_start: '癸未（三月）'
+            range: '323'
+        -
+          name: '成帝（司马衍）'
+          reign_titles:
+            -
+              title: '太宁'
+              years: ''
+              ganzhi_start: '乙酉（闰八月）'
+              range: '325'
+            -
+              title: '咸和'
+              years: 9
+              ganzhi_start: '丙戌（二月）'
+              range: '326'
+            -
+              title: '咸康'
+              years: 8
+              ganzhi_start: '乙未'
+              range: '335'
+        -
+          name: '康帝（司马岳）'
+          reign_titles:
+              -
+                title: '建元'
+                years: 2
+                ganzhi_start: '癸卯'
+                range: '343'
+        -
+          name: '穆帝（司马聃（dān））'
+          reign_titles:
+              -
+                title: '永和'
+                years: 12
+                ganzhi_start: '乙巳'
+                range: '345'
+              -
+                title: '升平'
+                years: 5
+                ganzhi_start: '丁巳'
+                range: '357'
+        -
+          name: '哀帝（司马丕（pī））'
+          reign_titles:
+            -
+              title: '隆和'
+              years: 2
+              ganzhi_start: '壬戌'
+              range: '362'
+            -
+              title: '兴宁'
+              years: 3
+              ganzhi_start: '癸亥（二月）'
+              range: '363'
+        -
+          name: '海西公（司马奕）'
+          reign_titles:
+             -
+              title: '太和'
+              years: 6
+              ganzhi_start: '丙寅'
+              range: '366'
+        -
+          name: '简文帝（司马昱（yù））'
+          reign_titles:
+             -
+              title: '咸安'
+              years: 2
+              ganzhi_start: '辛末（十一月）'
+              range: '371'
+        -
+          name: '孝武帝（司马曜（yào））'
+          reign_titles:
+            -
+              title: '宁康'
+              years: 3
+              ganzhi_start: '癸酉'
+              range: '373'
+            -
+              title: '太元'
+              years: 21
+              ganzhi_start: '丙子'
+              range: '376'
+        -
+          name: '安帝（司马德宗）'
+          reign_titles:
+            -
+              title: '隆安'
+              years: 5
+              ganzhi_start: '丁酉'
+              range: '397'
+            -
+              title: '元兴'
+              years: 3
+              ganzhi_start: '壬寅'
+              range: '402'
+            -
+              title: '义熙'
+              years: 14
+              ganzhi_start: '乙巳'
+              range: '405'
+        -
+          name: '恭帝（司马德文）'
+          reign_titles:
+            -
+              title: '元熙'
+              years: 2
+              ganzhi_start: '己未'
+              range: '419'
+
+
