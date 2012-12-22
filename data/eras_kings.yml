@@ -1452,5 +1452,720 @@ jin:
               years: 2
               ganzhi_start: '己未'
               range: '419'
-
-
+nanbeichao:
+  dynasty: '南北朝'
+  range: '420—589'
+  children:
+    song:
+      dynasty: '南朝 宋'
+      range: '420—479'
+      kings:
+        -
+          name: '武帝（刘裕）'
+          reign_titles:
+            -
+              title: '永初'
+              years: 3
+              ganzhi_start: '庚申（六月）'
+              range: '420'
+        -
+          name: '少帝（刘义符）'
+          reign_titles:
+            -
+              title: '景平'
+              years: 2
+              ganzhi_start: '癸亥'
+              range: '423'
+        -
+          name: '文帝（刘义隆）'
+          reign_titles:
+            -
+              title: '元嘉'
+              years: 30
+              ganzhi_start: '甲子（八月）'
+              range: '424'
+        -
+          name: '孝武帝（刘骏）'
+          reign_titles:
+            -
+              title: '孝建'
+              years: 3
+              ganzhi_start: '甲午'
+              range: '454'
+            -
+              title: '大明'
+              years: 8
+              ganzhi_start: '丁酉'
+              range: '457'
+        -
+          name: '前废帝（刘子业）'
+          reign_titles:
+            -
+              title: '永光'
+              years: 1
+              ganzhi_start: '乙巳'
+              range: '465'
+            -
+              title: '景和'
+              years: 1
+              ganzhi_start: '乙巳（八月）'
+              range: '465'
+        -
+          name: '明帝（刘彧（yù））'
+          reign_titles:
+            -
+              title: '泰始'
+              years: 7
+              ganzhi_start: '乙巳（十二月）'
+              range: '465'
+            -
+              title: '泰豫'
+              years: 1
+              ganzhi_start: '壬子'
+              range: '472'
+        -
+          name: '后废帝（刘昱（苍梧王））'
+          reign_titles:
+            -
+              title: '元徽'
+              years: 5
+              ganzhi_start: '癸丑'
+              range: '473'
+        -
+          name: '顺帝（刘凖）'
+          reign_titles:
+            -
+              title: '昇明'
+              years: 3
+              ganzhi_start: '丁巳（七月）'
+              range: '477'
+    qi:
+      dynasty: '南朝 齐'
+      range: '479—502'
+      kings:
+        -
+          name: '高帝（萧道成）'
+          reign_titles:
+            -
+              title: '建元'
+              years: 4
+              ganzhi_start: '己未（四月）'
+              range: '479'
+        -
+          name: '武帝（萧赜（zé））'
+          reign_titles:
+            -
+              title: '永明'
+              years: 11
+              ganzhi_start: '癸亥'
+              range: '483'
+        -
+          name: '鬱（yù）林王（萧昭业）'
+          reign_titles:
+            -
+              title: '隆昌'
+              years: 1
+              ganzhi_start: '甲戌'
+              range: '494'
+        -
+          name: '海陵王（萧昭文）'
+          reign_titles:
+            -
+              title: '延兴'
+              years: 1
+              ganzhi_start: '甲戌（七月）'
+              range: '494'
+        -
+          name: '明帝（萧鸾）'
+          reign_titles:
+            -
+              title: '建武'
+              years: 5
+              ganzhi_start: '甲戌（十月）'
+              range: '494'
+            -
+              title: '永泰'
+              years: 1
+              ganzhi_start: '戊寅（四月）'
+              range: '498'
+        -
+          name: '东昏侯（萧宝卷）'
+          reign_titles:
+            -
+              title: '永元'
+              years: 3
+              ganzhi_start: '己卯'
+              range: '499'
+        -
+          name: '和帝（萧宝融）'
+          reign_titles:
+            -
+              title: '中兴'
+              years: 2
+              ganzhi_start: '辛巳（二月）'
+              range: '501'
+    liang:
+      dynasty: '南朝 梁'
+      range: '502—557'
+      kings:
+        -
+          name: '武帝（萧衍）'
+          reign_titles:
+            -
+              title: '天监'
+              years: 18
+              ganzhi_start: '壬午（四月）'
+              range: '502'
+            -
+              title: '普通'
+              years: 8
+              ganzhi_start: '庚子'
+              range: '520'
+            -
+              title: '大通'
+              years: 3
+              ganzhi_start: '丁未（三月）'
+              range: '527'
+            -
+              title: '中大通'
+              years: 6
+              ganzhi_start: '己酉（十月）'
+              range: '529'
+            -
+              title: '大同'
+              years: 12
+              ganzhi_start: '乙卯'
+              range: '535'
+            -
+              title: '中大同'
+              years: 2
+              ganzhi_start: '丙寅（四月）'
+              range: '546'
+            -
+              title: '太清'
+              years: 3
+              ganzhi_start: '丁卯（四月）'
+              range: '547'
+              extra: '有的地区用至6年'
+        -
+          name: '简文帝（萧纲）'
+          reign_titles:
+            -
+              title: '大宝'
+              years: 2
+              ganzhi_start: '庚午'
+              range: '550'
+              extra: '有的地区用至3年'
+        -
+          name: '元帝（萧绎）'
+          reign_titles:
+            -
+              title: '承圣'
+              years: 4
+              ganzhi_start: '壬申（十一月）'
+              range: '552'
+        -
+          name: '敬帝（萧方智）'
+          reign_titles:
+            -
+              title: '绍泰'
+              years: 2
+              ganzhi_start: '乙亥（十月）'
+              range: '555'
+            -
+              title: '太平'
+              years: 2
+              ganzhi_start: '丙子（九月）'
+              range: '556'
+    chen:
+      dynasty: '南朝 陈'
+      range: '557—589'
+      kings:
+        -
+          name: '武帝（陈霸先）'
+          reign_titles:
+            -
+              title: '永定'
+              years: 3
+              ganzhi_start: '丁丑（十月）'
+              range: '557'
+        -
+          name: '文帝（陈蒨（qiàn））'
+          reign_titles:
+            -
+              title: '天嘉'
+              years: 7
+              ganzhi_start: '庚辰'
+              range: '560'
+            -
+              title: '天康'
+              years: 1
+              ganzhi_start: '丙戌（二月）'
+              range: '566'
+        -
+          name: '废帝（陈伯宗）（临海王）'
+          reign_titles:
+            -
+              title: '光大'
+              years: 2
+              ganzhi_start: '丁亥'
+              range: '567'
+        -
+          name: '宣帝（陈顼（xū）)'
+          reign_titles:
+            -
+              title: '太建'
+              years: 14
+              ganzhi_start: '己丑'
+              range: '569'
+        -
+          name: '后主（陈叔宝）'
+          reign_titles:
+            -
+              title: '至德'
+              years: 4
+              ganzhi_start: '癸卯'
+              range: '583'
+            -
+              title: '祯明'
+              years: '3'
+              ganzhi_start: '丁未'
+              range: '587'
+    beiwei:
+      dynasty: '北朝 北魏（拓跋氏，后改元氏）'
+      range: '386—534'
+      extra: '北魏建国于丙戌(386年)正月，初称代国，同年四月始改国号为魏，439年灭北凉，统一北方'
+      kings:
+        -
+          name: '道武帝（拓跋登珪）'
+          reign_titles:
+            -
+              title: '登国'
+              years: 11
+              ganzhi_start: '丙戌'
+              range: '386'
+            -
+              title: '皇始'
+              years: 3
+              ganzhi_start: '丙申（七月）'
+              range: '396'
+            -
+              title: '天兴'
+              years: 7
+              ganzhi_start: '戊戌（十二月）'
+              range: '398'
+            -
+              title: '天赐'
+              years: 6
+              ganzhi_start: '甲辰（十月）'
+              range: '404'
+        -
+          name: '明元帝（拓跋嗣）'
+          reign_titles:
+            -
+              title: '永兴'
+              years: 5
+              ganzhi_start: '己酉（十月）'
+              range: '409'
+            -
+              title: '神瑞'
+              years: 3
+              ganzhi_start: '甲寅'
+              range: '414'
+            -
+              title: '泰常'
+              years: 8
+              ganzhi_start: '丙辰（四月）'
+              range: '416'
+        -
+          name: '太武帝（拓跋焘）'
+          reign_titles:
+            -
+              title: '始光'
+              years: 5
+              ganzhi_start: '甲子'
+              range: '424'
+            -
+              title: '神麚（jiā）'
+              years: 4
+              ganzhi_start: '戊辰（二月）'
+              range: '428'
+            -
+              title: '延和'
+              years: 3
+              ganzhi_start: '壬申'
+              range: '432'
+            -
+              title: '太延'
+              years: 6
+              ganzhi_start: '乙亥'
+              range: '435'
+            -
+              title: '太平真君'
+              years: 12
+              ganzhi_start: '庚辰（六月）'
+              range: '440'
+            -
+              title: '正平'
+              years: 2
+              ganzhi_start: '辛卯（六月）'
+              range: '451'
+        -
+          name: '南安王（拓跋余）'
+          reign_titles:
+            -
+              title: '永（承）平'
+              years: 1
+              ganzhi_start: '壬辰（三月）'
+              range: '452'
+        -
+          name: '文成帝（拓跋濬（jùn））'
+          reign_titles:
+            -
+              title: '兴安'
+              years: 3
+              ganzhi_start: '壬辰（十月）'
+              range: '452'
+            -
+              title: '兴光'
+              years: 2
+              ganzhi_start: '甲午（七月）'
+              range: '454'
+            -
+              title: '太安'
+              years: 5
+              ganzhi_start: '乙未（六月）'
+              range: '455'
+            -
+              title: '和平'
+              years: 6
+              ganzhi_start: '庚子'
+              range: '460'
+        -
+          name: '献文帝（拓跋弘）'
+          reign_titles:
+            -
+              title: '天安'
+              years: 2
+              ganzhi_start: '丙午'
+              range: '466'
+            -
+              title: '皇兴'
+              years: 5
+              ganzhi_start: '丁未（八月）'
+              range: '467'
+        -
+          name: '孝文帝（元宏）'
+          reign_titles:
+            -
+              title: '延兴'
+              years: 6
+              ganzhi_start: '辛亥（八月）'
+              range: '471'
+            -
+              title: '承明'
+              years: 1
+              ganzhi_start: '丙辰（六月）'
+              range: '476'
+            -
+              title: '太和'
+              years: 23
+              ganzhi_start: '丁巳'
+              range: '477'
+        -
+          name: '宣武帝（元恪（kè））'
+          reign_titles:
+            -
+              title: '景明'
+              years: 4
+              ganzhi_start: '庚辰'
+              range: '500'
+            -
+              title: '正始'
+              years: 5
+              ganzhi_start: '甲申'
+              range: '504'
+            -
+              title: '永平'
+              years: 5
+              ganzhi_start: '戊子（八月）'
+              range: '508'
+            -
+              title: '延昌'
+              years: 4
+              ganzhi_start: '壬辰（四月）'
+              range: '512'
+        -
+          name: '孝明帝（元诩（xǔ））'
+          reign_titles:
+            -
+              title: '熙平'
+              years: 3
+              ganzhi_start: '丙申'
+              range: '516'
+            -
+              title: '神龟'
+              years: 3
+              ganzhi_start: '戊戌（二月）'
+              range: '518'
+            -
+              title: '正光'
+              years: 6
+              ganzhi_start: '庚子（七月）'
+              range: '520'
+            -
+              title: '孝昌'
+              years: 3
+              ganzhi_start: '乙巳（六月）'
+              range: '525'
+            -
+              title: '武泰'
+              years: 1
+              ganzhi_start: '戊申'
+              range: '528'
+        -
+          name: '孝庄帝（元子攸）'
+          reign_titles:
+            -
+              title: '建义'
+              years: 1
+              ganzhi_start: '戊申（四月）'
+              range: '528'
+            -
+              title: '永安'
+              years: 3
+              ganzhi_start: '戊申（九月）'
+              range: '528'
+        -
+          name: '长广王（元晔）'
+          reign_titles:
+            -
+              title: '建明'
+              years: 2
+              ganzhi_start: '庚戌（十月）'
+              range: '530'
+        -
+          name: '节闵（mǐn）帝（元恭）'
+          reign_titles:
+            -
+              title: '普泰'
+              years: 2
+              ganzhi_start: '辛亥（二月）'
+              range: '531'
+        -
+          name: '安定王（元朗）'
+          reign_titles:
+            -
+              title: '中兴'
+              years: 2
+              ganzhi_start: '辛亥（十月）'
+              range: '531'
+        -
+          name: '孝武帝（元脩（xiū））'
+          reign_titles:
+            -
+              title: '太昌'
+              years: 1
+              ganzhi_start: '壬子（四月）'
+              range: '532'
+            -
+              title: '永兴'
+              years: 1
+              ganzhi_start: '壬子（十二月）'
+              range: '532'
+            -
+              title: '永熙'
+              years: 3
+              ganzhi_start: '壬子（十二月）'
+              range: '532'
+    dongwei:
+      dynasty: '东魏'
+      range: '534—550'
+      kings:
+        -
+          name: '孝静帝（元善见）'
+          reign_titles:
+            -
+              title: '天平'
+              years: 4
+              ganzhi_start: '甲寅（四月）'
+              range: '534'
+            -
+              title: '元象'
+              years: 2
+              ganzhi_start: '戊午'
+              range: '538'
+            -
+              title: '兴和'
+              years: 4
+              ganzhi_start: '己未（十一月）'
+              range: '539'
+            -
+              title: '武定'
+              years: 8
+              ganzhi_start: '癸亥'
+              range: '543'
+    beiqi:
+      dynasty: '北齐'
+      range: '550—577'
+      kings:
+        -
+          name: '文宣帝（高洋）'
+          reign_titles:
+            -
+              title: '天保'
+              years: 10
+              ganzhi_start: '庚午（五月）'
+              range: '550'
+        -
+          name: '废帝（高殷）'
+          reign_titles:
+            -
+              title: '乾明'
+              years: 1
+              ganzhi_start: '庚辰'
+              range: '560'
+        -
+          name: '孝昭帝（高演）'
+          reign_titles:
+            -
+              title: '皇建'
+              years: 2
+              ganzhi_start: '庚辰（八月）'
+              range: '560'
+        -
+          name: '武成帝（高湛）'
+          reign_titles:
+            -
+              title: '太宁'
+              years: 2
+              ganzhi_start: '辛巳（十一月）'
+              range: '561'
+            -
+              title: '河清'
+              years: 4
+              ganzhi_start: '壬午（四月）'
+              range: '562'
+        -
+          name: '后主（高纬）'
+          reign_titles:
+            -
+              title: '天统'
+              years: 5
+              ganzhi_start: '乙酉（四月）'
+              range: '565'
+            -
+              title: '565'
+              years: 7
+              ganzhi_start: '庚寅'
+              range: '570'
+            -
+              title: '隆化'
+              years: 1
+              ganzhi_start: '丙申（十二月）'
+              range: '576'
+        -
+          name: '幼主（高恒）'
+          reign_titles:
+            -
+              title: '承光'
+              years: 1
+              ganzhi_start: '丁酉'
+              range: '577'
+    xiwei:
+      dynasty: '西魏'
+      range: '535—556'
+      kings:
+        -
+          name: '文帝（元宝炬）'
+          reign_titles:
+            -
+              title: '大统'
+              years: 17
+              ganzhi_start: '乙卯'
+              range: '535'
+        -
+          name: '废帝（元钦）'
+          reign_titles:
+            -
+              title: ''
+              years: 3
+              ganzhi_start: '壬申'
+              range: '552'
+        -
+          name: '恭帝 （元廓）'
+          reign_titles:
+            -
+              title: ''
+              years: 3
+              ganzhi_start: '甲戌（一月）'
+              range: '554'
+    xiwei:
+      dynasty: '北周'
+      range: '557—581'
+      kings:
+        -
+          name: '孝闵(mǐn)帝（宇文觉）'
+          reign_titles:
+            -
+              title: ''
+              years: 1
+              ganzhi_start: '丁丑'
+              range: '557'
+        -
+          name: '明帝（宇文毓（yù））'
+          reign_titles:
+            -
+              title: ''
+              years: 3
+              ganzhi_start: '丁丑（九月）'
+              range: '557'
+            -
+              title: '武成'
+              years: 2
+              ganzhi_start: '己卯（八月）'
+              range: '559'
+        -
+          name: '武帝（宇文邕（yōng））'
+          reign_titles:
+            -
+              title: '保定'
+              years: 5
+              ganzhi_start: '辛巳'
+              range: '561'
+            -
+              title: '天和'
+              years: 7
+              ganzhi_start: '丙戌'
+              range: '566'
+            -
+              title: '建德'
+              years: 7
+              ganzhi_start: '壬辰（三月）'
+              range: '572'
+            -
+              title: '宣政'
+              years: 1
+              ganzhi_start: '戊戌（三月）'
+              range: '578'
+        -
+          name: '宣帝（宇文赟（yūn））'
+          reign_titles:
+            -
+              title: '大成'
+              years: 1
+              ganzhi_start: '己亥'
+              range: '579'
+        -
+          name: '静帝（宇文阐）'
+          reign_titles:
+            -
+              title: '大象'
+              years: 3
+              ganzhi_start: '己亥（二月）'
+              range: '579'
+            -
+              title: '大定'
+              years: 1
+              ganzhi_start: '辛丑（一月）'
+              range: '581'
