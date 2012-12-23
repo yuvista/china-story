@@ -3701,3 +3701,144 @@ yuan:
           years: 28
           ganzhi_start: '辛巳'
           range: '1341'
+ming:
+  dynasty: '明'
+  range: '1368——1644'
+  extra: '建文4年时成祖废除建文年号，改为洪武35年'
+  kings:
+    -
+      name: '太祖（朱元璋）'
+      reign_titles:
+        -
+          title: '洪武'
+          years: 35
+          ganzhi_start: '戊申'
+          range: '1368'
+    -
+      name: '惠帝（朱允炆（wén））'
+      reign_titles:
+        -
+          title: '建文'
+          years: 4
+          ganzhi_start: '己卯'
+          range: '1399'
+    -
+      name: '成祖（朱棣）'
+      reign_titles:
+        -
+          title: '永乐'
+          years: 22
+          ganzhi_start: '癸未'
+          range: '1403'
+    -
+      name: '仁宗（朱高炽（chì））'
+      reign_titles:
+        -
+          title: '洪熙'
+          years: 1
+          ganzhi_start: '乙巳'
+          range: '1425'
+    -
+      name: '宣宗（朱瞻基）'
+      reign_titles:
+        -
+          title: '宣德'
+          years: 10
+          ganzhi_start: '丙午'
+          range: '1426'
+    -
+      name: '英宗（朱祁镇）'
+      reign_titles:
+        -
+          title: '正统'
+          years: 14
+          ganzhi_start: '丙辰'
+          range: '1436'
+    -
+      name: '代宗（朱祁钰）（景帝）'
+      reign_titles:
+        -
+          title: '景泰'
+          years: 8
+          ganzhi_start: '庚午'
+          range: '1450'
+    -
+      name: '英宗（朱祁镇）'
+      reign_titles:
+        -
+          title: '天顺'
+          years: 8
+          ganzhi_start: '丁丑（一月）'
+          range: '1457'
+    -
+      name: '宪宗（朱见深）'
+      reign_titles:
+        -
+          title: '成化'
+          years: 23
+          ganzhi_start: '乙酉'
+          range: '1465'
+    -
+      name: '孝宗（朱祐樘（chēng））'
+      reign_titles:
+        -
+          title: '弘治'
+          years: 18
+          ganzhi_start: '戊申'
+          range: '1488'
+    -
+      name: '武宗（朱厚照）'
+      reign_titles:
+        -
+          title: '正德'
+          years: 16
+          ganzhi_start: '丙寅'
+          range: '1506'
+    -
+      name: '世宗（朱厚熜（cōng））'
+      reign_titles:
+        -
+          title: '嘉靖'
+          years: 45
+          ganzhi_start: '壬午'
+          range: '1522'
+    -
+      name: '穆宗（朱载垕（hòu））'
+      reign_titles:
+        -
+          title: '隆庆'
+          years: 6
+          ganzhi_start: '丁卯'
+          range: '1567'
+    -
+      name: '神宗（朱翊（yì）钧）'
+      reign_titles:
+        -
+          title: '万历'
+          years: 48
+          ganzhi_start: '癸酉'
+          range: '1573'
+    -
+      name: '光宗（朱常洛）'
+      reign_titles:
+        -
+          title: '泰昌'
+          years: 1
+          ganzhi_start: '庚申（八月）'
+          range: '1620'
+    -
+      name: '熹宗（朱由校）'
+      reign_titles:
+        -
+          title: '天启'
+          years: 7
+          ganzhi_start: '辛酉'
+          range: '1621'
+    -
+      name: '思宗（朱由检）'
+      reign_titles:
+        -
+          title: '崇祯'
+          years: 17
+          ganzhi_start: '戊辰'
+          range: '1628'
