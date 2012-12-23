@@ -21,7 +21,7 @@ module ErasHelper
             <tr>
               <th>帝号（姓名）</th>
               <th>年号</th>
-              <th>使用时间</th>
+              <th>使用时间（年）</th>
               <th>开始时间（干支）</th>
               <th>起止时间（公元）</th>
               <th>说明</th>
