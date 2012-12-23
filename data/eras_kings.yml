@@ -3129,7 +3129,7 @@ song:
               ganzhi_start: '戊辰'
               range: '1208'
         -
-          name: '理宗（赵昀(yún)）'
+          name: '理宗（赵昀（yún））'
           reign_titles:
             -
               title: '宝庆'
@@ -3203,3 +3203,161 @@ song:
               years: 2
               ganzhi_start: '戊寅（五月）'
               range: '1278'
+liao:
+  dynasty: '辽（耶律氏）'
+  range: '907—1125'
+  extra: '辽建国于907年，国号契丹，916年始建年号，938年（一说947年）改国号为辽，983年复称契丹，1066年仍称辽'
+  kings:
+    -
+      name: '太祖（耶律阿保机）'
+      reign_titles:
+        -
+          title: ''
+          years: 10
+          ganzhi_start: '丁卯'
+          range: '907'
+        -
+          title: '神册'
+          years: 7
+          ganzhi_start: '丙子（十二月）'
+          range: '916'
+        -
+          title: '天赞'
+          years: 5
+          ganzhi_start: '壬午（二月）'
+          range: '922'
+        -
+          title: '天显'
+          years: 13
+          ganzhi_start: '丙戌（二月）'
+          range: '926'
+    -
+      name: '太宗（耶律德光）'
+      reign_titles:
+        -
+          title: '天显'
+          years: ''
+          ganzhi_start: '丁亥（十一月）'
+          range: '927'
+          extra: '太宗即位末改元'
+        -
+          title: '会同'
+          years: 10
+          ganzhi_start: '戊戌（十一月）'
+          range: '938'
+        -
+          title: '大同'
+          years: 1
+          ganzhi_start: '丁未（二月）'
+          range: '947'
+    -
+      name: '世宗（耶律阮）'
+      reign_titles:
+        -
+          title: '天禄'
+          years: 5
+          ganzhi_start: '丁未（九月）'
+          range: '947'
+    -
+      name: '穆宗（耶律璟）'
+      reign_titles:
+        -
+          title: '应历'
+          years: 19
+          ganzhi_start: '辛亥（九月）'
+          range: '951'
+    -
+      name: '景宗（耶律贤）'
+      reign_titles:
+        -
+          title: '保宁'
+          years: 11
+          ganzhi_start: '己巳（二月）'
+          range: '969'
+        -
+          title: '乾亨'
+          years: 5
+          ganzhi_start: '己卯（十一月）'
+          range: '979'
+    -
+      name: '圣宗（耶律隆绪）'
+      reign_titles:
+        -
+          title: '乾亨'
+          years: ''
+          ganzhi_start: '壬午（九月）'
+          range: '982'
+        -
+          title: '统和'
+          years: 30
+          ganzhi_start: '癸未（六月）'
+          range: '983'
+        -
+          title: '开泰'
+          years: 10
+          ganzhi_start: '壬子（十一月）'
+          range: '1012'
+        -
+          title: '太平'
+          years: 11
+          ganzhi_start: '辛酉（十一月）'
+          range: '1021'
+    -
+      name: '兴宗（耶律宗真）'
+      reign_titles:
+        -
+          title: '景福'
+          years: 2
+          ganzhi_start: '辛未（六月）'
+          range: '1031'
+        -
+          title: '重熙'
+          years: 24
+          ganzhi_start: '壬申（十一月）'
+          range: '1032'
+    -
+      name: '道宗（耶律洪基）'
+      reign_titles:
+        -
+          title: '清宁'
+          years: 10
+          ganzhi_start: '乙未（八月）'
+          range: '1055'
+        -
+          title: '咸雍'
+          years: 10
+          ganzhi_start: '乙巳'
+          range: '1065'
+        -
+          title: '大（太）康'
+          years: 10
+          ganzhi_start: '乙卯'
+          range: '1075'
+        -
+          title: '大安'
+          years: 10
+          ganzhi_start: '乙丑'
+          range: '1085'
+        -
+          title: '寿昌（隆）'
+          years: 7
+          ganzhi_start: '乙亥'
+          range: '1095'
+    -
+      name: '天祚（zuò）帝（耶律延禧）'
+      reign_titles:
+        -
+          title: '乾统'
+          years: 10
+          ganzhi_start: '辛巳（二月）'
+          range: '1101'
+        -
+          title: '天庆'
+          years: 10
+          ganzhi_start: '辛卯'
+          range: '1111'
+        -
+          title: '保大'
+          years: 5
+          ganzhi_start: '辛丑'
+          range: '1121'
