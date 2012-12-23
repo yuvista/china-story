@@ -2685,3 +2685,170 @@ tang:
           ganzhi_start: '甲子（八月）'
           range: '904'
           extra: '哀帝即位未改元'
+wudai:
+  dynasty: '五代'
+  range: '907—960'
+  children:
+    houliang:
+      dynasty: '后梁'
+      range: '907—923'
+      kings:
+        -
+          name: '太祖（朱晃，又名温、全忠）'
+          reign_titles:
+            -
+              title: '开平'
+              years: 5
+              ganzhi_start: '丁卯（四月）'
+              range: '907'
+            -
+              title: '乾化'
+              years: 5
+              ganzhi_start: '辛未（五月）'
+              range: '911'
+        -
+          name: '末帝（朱瑱（zhèn））'
+          reign_titles:
+            -
+              title: '乾化'
+              years: ''
+              ganzhi_start: '癸酉（二月）'
+              range: '913'
+            -
+              title: '贞明'
+              years: 7
+              ganzhi_start: '乙亥（十一月）'
+              range: '915'
+            -
+              title: '龙德'
+              years: 3
+              ganzhi_start: '辛巳（五月）'
+              range: '921'
+    houtang:
+      dynasty: '后唐'
+      range: '923—936'
+      kings:
+        -
+          name: '庄宗（李存勖（xù））'
+          reign_titles:
+            -
+              title: '同光'
+              years: 4
+              ganzhi_start: '癸未（四月）'
+              range: '923'
+        -
+          name: '明宗（李亶（dǎn））'
+          reign_titles:
+            -
+              title: '天成'
+              years: 5
+              ganzhi_start: '丙戌（四月）'
+              range: '926'
+            -
+              title: '长兴'
+              years: 4
+              ganzhi_start: '庚寅（二月）'
+              range: '930'
+        -
+          name: '闵帝（李从厚）'
+          reign_titles:
+            -
+              title: '应顺'
+              years: 1
+              ganzhi_start: '甲午'
+              range: '934'
+        -
+          name: '末帝（李从珂（kē））'
+          reign_titles:
+            -
+              title: '清泰'
+              years: 3
+              ganzhi_start: '甲午（四月）'
+              range: '934'
+    houjin:
+      dynasty: '后晋'
+      range: '936—947'
+      kings:
+        -
+          name: '高祖（石敬瑭）'
+          reign_titles:
+            -
+              title: '天福'
+              years: 9
+              ganzhi_start: '丙申（十一月）'
+              range: '936'
+        -
+          name: '出帝（石重贵）'
+          reign_titles:
+            -
+              title: '天福'
+              years: ''
+              ganzhi_start: '壬寅（六月）'
+              range: '942'
+              extra: '出帝即位未改元'
+            -
+              title: '开运'
+              years: 4
+              ganzhi_start: '甲辰（七月）'
+              range: '944'
+    houhan:
+      dynasty: '后汉'
+      range: '947—950'
+      kings:
+        -
+          name: '高祖（刘暠（gǎo），本名知远）'
+          reign_titles:
+            -
+              title: '天福'
+              years: ''
+              ganzhi_start: '丁未（二月）'
+              range: '947'
+              extra: '后汉高祖即位。仍用后晋高祖年号，称天福十二年'
+            -
+              title: '乾祐'
+              years: 3
+              ganzhi_start: '戊申'
+              range: '948'
+        -
+          name: '隐帝（刘承祐）'
+          reign_titles:
+            -
+              title: '乾祐'
+              years: ''
+              ganzhi_start: '戊申（二月）'
+              range: '948'
+              extra: '隐帝即位未改元'
+    houzhou:
+      dynasty: '后周'
+      range: '951—960'
+      extra: '世宗、恭帝都未改元'
+      kings:
+        -
+          name: '太祖（郭威）'
+          reign_titles:
+            -
+              title: '广顺'
+              years: '3'
+              ganzhi_start: '辛亥'
+              range: '951'
+            -
+              title: '显德'
+              years: 7
+              ganzhi_start: '甲寅（一月）'
+              range: '954'
+        -
+          name: '世宗（柴荣）'
+          reign_titles:
+            -
+              title: '显德'
+              years: ''
+              ganzhi_start: '甲寅（一月）'
+              range: '954'
+        -
+          name: '恭帝（柴宗训）'
+          reign_titles:
+            -
+              title: '显德'
+              years: ''
+              ganzhi_start: '己未（六月）'
+              range: '959'
