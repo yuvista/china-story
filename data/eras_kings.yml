@@ -3361,3 +3361,153 @@ liao:
           years: 5
           ganzhi_start: '辛丑'
           range: '1121'
+jin_wanyan:
+  dynasty: '金（完颜氏）'
+  range: '1115—1234'
+  kings:
+    -
+      name: '太祖（完颜旻（mín），本名阿骨打）'
+      reign_titles:
+        -
+          title: '收国'
+          years: 2
+          ganzhi_start: '乙未'
+          range: '1115'
+        -
+          title: '天辅'
+          years: 7
+          ganzhi_start: '丁酉'
+          range: '1117'
+    -
+      name: '太宗（完颜晟（shèng））'
+      reign_titles:
+        -
+          title: '天会'
+          years: 15
+          ganzhi_start: '癸卯（九月）'
+          range: '1123'
+    -
+      name: '熙宗（完颜亶（dǎn））'
+      reign_titles:
+        -
+          title: '天会'
+          years: ''
+          ganzhi_start: '乙卯（一月）'
+          range: '1135'
+          extra: '熙宗即位末改元'
+        -
+          title: '天眷'
+          years: 3
+          ganzhi_start: '戊午'
+          range: '1138'
+        -
+          title: '皇统'
+          years: 9
+          ganzhi_start: '辛酉'
+          range: '1141'
+    -
+      name: '海陵王（完颜亮）'
+      reign_titles:
+        -
+          title: '天德'
+          years: 5
+          ganzhi_start: '己巳（十二月）'
+          range: '1149'
+        -
+          title: '贞元'
+          years: 4
+          ganzhi_start: '癸酉（三月）'
+          range: '1153'
+        -
+          title: '正隆'
+          years: 6
+          ganzhi_start: '丙子（二月）'
+          range: '1156'
+    -
+      name: '世宗（完颜雍）'
+      reign_titles:
+        -
+          title: '大定'
+          years: 29
+          ganzhi_start: '辛巳（十月）'
+          range: '1161'
+    -
+      name: '章宗（完颜璟）'
+      reign_titles:
+        -
+          title: '明昌'
+          years: 7
+          ganzhi_start: '庚戌'
+          range: '1190'
+        -
+          title: '承安'
+          years: 5
+          ganzhi_start: '丙辰（十一月）'
+          range: '1196'
+        -
+          title: '泰和'
+          years: 8
+          ganzhi_start: '辛酉'
+          range: '1201'
+    -
+      name: '卫绍王（完颜永济）'
+      reign_titles:
+        -
+          title: '大安'
+          years: 3
+          ganzhi_start: '己巳'
+          range: '1209'
+        -
+          title: '崇庆'
+          years: 2
+          ganzhi_start: '壬申'
+          range: '1212'
+        -
+          title: '至宁'
+          years: 1
+          ganzhi_start: '癸酉（五月）'
+          range: '1213'
+    -
+      name: '宣宗（完颜珣（xún））'
+      reign_titles:
+        -
+          title: '贞祐'
+          years: 5
+          ganzhi_start: '癸酉（九月）'
+          range: '1213'
+        -
+          title: '兴定'
+          years: 6
+          ganzhi_start: '丁丑（九月）'
+          range: '1217'
+        -
+          title: '元光'
+          years: 2
+          ganzhi_start: '壬午（八月）'
+          range: '1222'
+    -
+      name: '哀宗（完颜守绪）'
+      reign_titles:
+        -
+          title: '正大'
+          years: 9
+          ganzhi_start: '甲申'
+          range: '1224'
+        -
+          title: '开兴'
+          years: 1
+          ganzhi_start: '壬辰（一月）'
+          range: '1232'
+        -
+          title: '天兴'
+          years: 3
+          ganzhi_start: '壬辰（四月）'
+          range: '1232'
+    -
+      name: '太祖（完颜旻（mín），本名阿骨打）'
+      reign_titles:
+        -
+          title: '天兴'
+          years: ''
+          ganzhi_start: '甲午'
+          range: '1234'
