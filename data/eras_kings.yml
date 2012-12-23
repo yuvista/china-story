@@ -3511,3 +3511,193 @@ jin_wanyan:
           years: ''
           ganzhi_start: '甲午'
           range: '1234'
+yuan:
+  dynasty: '元（孛儿只斤氏）'
+  range: '1206—1368'
+  extra: '蒙古孛儿只斤铁木真（成吉思汗）于1206年建国。1271年忽必烈定国号为元，1279年灭南宋'
+  kings:
+    -
+      name: '太祖（孛儿只斤铁木真）'
+      reign_titles:
+        -
+          title: ''
+          years: 22
+          ganzhi_start: '丙寅'
+          range: '1206'
+    -
+      name: '拖雷（监国）'
+      reign_titles:
+        -
+          title: ''
+          years: 1
+          ganzhi_start: '戊子'
+          range: '1228'
+    -
+      name: '太宗（孛儿只斤窝阔台）'
+      reign_titles:
+        -
+          title: ''
+          years: 13
+          ganzhi_start: '己丑'
+          range: '1229'
+    -
+      name: '乃马真后（称制）'
+      reign_titles:
+        -
+          title: ''
+          years: 5
+          ganzhi_start: '壬寅'
+          range: '1242'
+    -
+      name: '定宗（孛儿只斤贵由）'
+      reign_titles:
+        -
+          title: ''
+          years: 3
+          ganzhi_start: '丙午（七月）'
+          range: '1246'
+    -
+      name: '海迷失后（海迷失后）'
+      reign_titles:
+        -
+          title: ''
+          years: 3
+          ganzhi_start: '己酉（三月）'
+          range: '1249'
+    -
+      name: '宪宗（孛儿只斤蒙哥）'
+      reign_titles:
+        -
+          title: ''
+          years: 9
+          ganzhi_start: '辛亥（六月）'
+          range: '1251'
+    -
+      name: '世祖（孛儿只斤忽必烈）'
+      reign_titles:
+        -
+          title: '中统'
+          years: 5
+          ganzhi_start: '庚申（五月）'
+          range: '1260'
+        -
+          title: '至元'
+          years: 31
+          ganzhi_start: '甲子（八月）'
+          range: '1264'
+    -
+      name: '成宗（孛儿只斤铁穆耳）'
+      reign_titles:
+        -
+          title: '元贞'
+          years: 3
+          ganzhi_start: '乙未'
+          range: '1295'
+        -
+          title: '大德'
+          years: 11
+          ganzhi_start: '丁酉（二月）'
+          range: '1297'
+    -
+      name: '武宗（孛儿只斤海山）'
+      reign_titles:
+        -
+          title: '至大'
+          years: 4
+          ganzhi_start: '戊申'
+          range: '1308'
+    -
+      name: '仁宗（孛儿只斤爱育黎拔力八达）'
+      reign_titles:
+        -
+          title: '皇庆'
+          years: 2
+          ganzhi_start: '壬子'
+          range: '1312'
+        -
+          title: '延祐'
+          years: 7
+          ganzhi_start: '甲寅'
+          range: '1314'
+    -
+      name: '英宗（孛儿只斤硕德八剌）'
+      reign_titles:
+        -
+          title: '至治'
+          years: 3
+          ganzhi_start: '辛酉'
+          range: '1321'
+    -
+      name: '泰定帝（孛儿只斤也孙铁木儿）'
+      reign_titles:
+        -
+          title: '泰定'
+          years: 5
+          ganzhi_start: '甲子'
+          range: '1324'
+        -
+          title: '致和'
+          years: 1
+          ganzhi_start: '戊辰（二月）'
+          range: '1328'
+    -
+      name: '天顺帝（孛儿只斤阿速吉八）'
+      reign_titles:
+        -
+          title: '天顺'
+          years: 1
+          ganzhi_start: '戊辰（九月）'
+          range: '1328'
+    -
+      name: '文宗（孛儿只斤图帖睦尔）'
+      reign_titles:
+        -
+          title: '天历'
+          years: 3
+          ganzhi_start: '戊辰（九月）'
+          range: '1328'
+    -
+      name: '明宗（孛儿只斤和世琜（là）））'
+      reign_titles:
+        -
+          title: '天历'
+          years: ''
+          ganzhi_start: '己巳'
+          range: '1329'
+          extra: '于己巳（1329）正月即位，以文宗为皇太子。八月暴死，文宗复位'
+        -
+          title: '至顺'
+          years: 4
+          ganzhi_start: '庚午（五月）'
+          range: '1330'
+    -
+      name: '宁宗（孛儿只斤懿璘质班）'
+      reign_titles:
+        -
+          title: '至顺'
+          years: ''
+          ganzhi_start: '壬申（十月）'
+          range: '1332'
+    -
+      name: '顺帝（孛儿只斤妥懽（huān）帖睦尔）'
+      reign_titles:
+        -
+          title: '至顺'
+          years: ''
+          ganzhi_start: '癸酉（六月）'
+          range: '1333'
+        -
+          title: '元统'
+          years: 3
+          ganzhi_start: '癸酉（十月）'
+          range: '1333'
+        -
+          title: '（后）至元'
+          years: 6
+          ganzhi_start: '乙亥（十一月）'
+          range: '1335'
+        -
+          title: '至正'
+          years: 28
+          ganzhi_start: '辛巳'
+          range: '1341'
