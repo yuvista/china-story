@@ -2852,3 +2852,354 @@ wudai:
               years: ''
               ganzhi_start: '己未（六月）'
               range: '959'
+song:
+  dynasty: '宋'
+  range: '960—1279'
+  children:
+    beisong:
+      dynasty: '北宋'
+      range: '960—1127'
+      kings:
+        -
+          name: '太祖（赵匡胤）'
+          reign_titles:
+            -
+              title: '建隆'
+              years: 4
+              ganzhi_start: '庚申'
+              range: '960'
+            -
+              title: '乾德'
+              years: 6
+              ganzhi_start: '癸亥（十一月）'
+              range: '963'
+            -
+              title: '开宝'
+              years: 9
+              ganzhi_start: '戊辰（十一月）'
+              range: '968'
+        -
+          name: '太宗（赵炅（jiǒng），本名匡义，又名光义）'
+          reign_titles:
+            -
+              title: '太平兴国'
+              years: 9
+              ganzhi_start: '丙子（十二月）'
+              range: '976'
+            -
+              title: '雍熙'
+              years: 4
+              ganzhi_start: '甲申（十一月）'
+              range: '984'
+            -
+              title: '端拱'
+              years: 2
+              ganzhi_start: '戊子'
+              range: '988'
+            -
+              title: '淳化'
+              years: 5
+              ganzhi_start: '庚寅'
+              range: '990'
+            -
+              title: '至道'
+              years: 3
+              ganzhi_start: '乙未'
+              range: '995'
+        -
+          name: '真宗（赵恒）'
+          reign_titles:
+            -
+              title: '咸平'
+              years: 6
+              ganzhi_start: '戊戌'
+              range: '998'
+            -
+              title: '景德'
+              years: 4
+              ganzhi_start: '甲辰'
+              range: '1004'
+            -
+              title: '大中祥符'
+              years: 9
+              ganzhi_start: '戊申'
+              range: '1008'
+            -
+              title: '天禧'
+              years: 5
+              ganzhi_start: '丁巳'
+              range: '1017'
+            -
+              title: '乾兴'
+              years: 1
+              ganzhi_start: '壬戊'
+              range: '1022'
+        -
+          name: '仁宗（赵祯）'
+          reign_titles:
+            -
+              title: '天圣'
+              years: 10
+              ganzhi_start: '癸亥'
+              range: '1023'
+            -
+              title: '明道'
+              years: 2
+              ganzhi_start: '壬申（十一月）'
+              range: '1032'
+            -
+              title: '景祐'
+              years: 5
+              ganzhi_start: '甲戌'
+              range: '1034'
+            -
+              title: '宝元'
+              years: 3
+              ganzhi_start: '戊寅（十一月）'
+              range: '1038'
+            -
+              title: '康定'
+              years: 2
+              ganzhi_start: '庚辰（二月）'
+              range: '1040'
+            -
+              title: '庆历'
+              years: 8
+              ganzhi_start: '辛巳（十一月）'
+              range: '1041'
+            -
+              title: '皇祐'
+              years: 6
+              ganzhi_start: '己丑'
+              range: '1049'
+            -
+              title: '至和'
+              years: 3
+              ganzhi_start: '甲午（三月）'
+              range: '1054'
+            -
+              title: '嘉祐'
+              years: 8
+              ganzhi_start: '丙申（九月）'
+              range: '1056'
+        -
+          name: '英宗（赵曙）'
+          reign_titles:
+            -
+              title: '治平'
+              years: 4
+              ganzhi_start: '甲辰'
+              range: '1064'
+        -
+          name: '神宗（赵顼（xū））'
+          reign_titles:
+            -
+              title: '熙宁'
+              years: 10
+              ganzhi_start: '戊申'
+              range: '1068'
+            -
+              title: '元丰'
+              years: 8
+              ganzhi_start: '戊午'
+              range: '1078'
+        -
+          name: '哲宗（赵煦（xù））'
+          reign_titles:
+            -
+              title: '元祐'
+              years: 9
+              ganzhi_start: '丙寅'
+              range: '1086'
+            -
+              title: '绍圣'
+              years: 5
+              ganzhi_start: '甲戌（四月）'
+              range: '1094'
+            -
+              title: '元符'
+              years: 3
+              ganzhi_start: '戊寅（六月）'
+              range: '1098'
+        -
+          name: '徽宗（赵佶（jí））'
+          reign_titles:
+            -
+              title: '建中靖国'
+              years: 1
+              ganzhi_start: '辛巳'
+              range: '1101'
+            -
+              title: '崇宁'
+              years: 5
+              ganzhi_start: '壬午'
+              range: '1102'
+            -
+              title: '大观'
+              years: 4
+              ganzhi_start: '丁亥'
+              range: '1107'
+            -
+              title: '政和'
+              years: 8
+              ganzhi_start: '辛卯'
+              range: '1111'
+            -
+              title: '重和'
+              years: 2
+              ganzhi_start: '戊戌（十一月）'
+              range: '1118'
+            -
+              title: '宣和'
+              years: 7
+              ganzhi_start: '己亥（二月）'
+              range: '1119'
+        -
+          name: '钦宗（赵桓）'
+          reign_titles:
+            -
+              title: '靖康'
+              years: 2
+              ganzhi_start: '丙午'
+              range: '1126'
+    nansong:
+      dynasty: '南宋'
+      range: '1127—1279'
+      kings:
+        -
+          name: '高宗（赵构）'
+          reign_titles:
+            -
+              title: '建炎'
+              years: 4
+              ganzhi_start: '丁未（五月）'
+              range: '1127'
+            -
+              title: '绍兴'
+              years: 32
+              ganzhi_start: '辛亥'
+              range: '1131'
+        -
+          name: '孝宗（赵昚（shèn））'
+          reign_titles:
+            -
+              title: '隆兴'
+              years: 2
+              ganzhi_start: '癸未'
+              range: '1163'
+            -
+              title: '乾道'
+              years: 9
+              ganzhi_start: '乙酉'
+              range: '1165'
+            -
+              title: '淳熙'
+              years: 16
+              ganzhi_start: '甲午'
+              range: '1174'
+        -
+          name: '光宗（赵惇（dūn））'
+          reign_titles:
+            -
+              title: '绍熙'
+              years: 5
+              ganzhi_start: '庚戌'
+              range: '1190'
+        -
+          name: '宁宗（赵扩）'
+          reign_titles:
+            -
+              title: '庆元'
+              years: 6
+              ganzhi_start: '乙卯'
+              range: '1195'
+            -
+              title: '嘉泰'
+              years: 4
+              ganzhi_start: '辛酉'
+              range: '1201'
+            -
+              title: '开禧'
+              years: 3
+              ganzhi_start: '乙丑'
+              range: '1205'
+            -
+              title: '嘉定'
+              years: 17
+              ganzhi_start: '戊辰'
+              range: '1208'
+        -
+          name: '理宗（赵昀(yún)）'
+          reign_titles:
+            -
+              title: '宝庆'
+              years: 3
+              ganzhi_start: '乙酉'
+              range: '1225'
+            -
+              title: '绍定'
+              years: 6
+              ganzhi_start: '戊子'
+              range: '1228'
+            -
+              title: '端平'
+              years: 3
+              ganzhi_start: '甲午'
+              range: '1234'
+            -
+              title: '嘉熙'
+              years: 4
+              ganzhi_start: '丁酉'
+              range: '1237'
+            -
+              title: '淳祐'
+              years: 12
+              ganzhi_start: '辛丑'
+              range: '1241'
+            -
+              title: '宝祐'
+              years: 6
+              ganzhi_start: '癸丑'
+              range: '1253'
+            -
+              title: '开庆'
+              years: 1
+              ganzhi_start: '己未'
+              range: '1259'
+            -
+              title: '景定'
+              years: '5'
+              ganzhi_start: '庚申'
+              range: '1260'
+        -
+          name: '度宗（赵禥（qí））'
+          reign_titles:
+            -
+              title: '咸淳'
+              years: 10
+              ganzhi_start: '乙丑'
+              range: '1265'
+        -
+          name: '恭帝（赵隰（xiǎn））'
+          reign_titles:
+            -
+              title: '德祐'
+              years: 2
+              ganzhi_start: '乙亥'
+              range: '1275'
+        -
+          name: '端宗（赵昰（shì））'
+          reign_titles:
+            -
+              title: '景炎'
+              years: 3
+              ganzhi_start: '丙子（五月）'
+              range: '1276'
+        -
+          name: '帝昺（赵昺（bǐng））'
+          reign_titles:
+            -
+              title: '祥兴'
+              years: 2
+              ganzhi_start: '戊寅（五月）'
+              range: '1278'
