@@ -422,38 +422,38 @@ zhou:
 qin:
   dynasty: '秦'
   range: '前221——前206'
-  extra: '周赧王59年乙巳(前256)，秦灭周。自次年(秦昭襄王52年丙午，前255)起至秦王政25年己卯(前222)，史家以秦王纪年。秦王政26年庚辰(前221)完成统一，称始皇帝。'
+  extra: '周赧王59年乙巳（前256），秦灭周。自次年（秦昭襄王52年丙午，前255）起至秦王政25年己卯（前222），史家以秦王纪年。秦王政26年庚辰（前221）完成统一，称始皇帝。'
   kings:
     -
-      name: '昭襄王(嬴则，又名稷)'
+      name: '昭襄王（嬴则，又名稷）'
       reign_titles:
         -
           years: 56
           ganzhi_start: '乙卯'
           range: '前306'
     -
-      name: '孝文王(嬴柱)'
+      name: '孝文王（嬴柱）'
       reign_titles:
         -
           years: 1
           ganzhi_start: '辛亥'
           range: '前250'
     -
-      name: '庄襄王(嬴子楚)'
+      name: '庄襄王（嬴子楚）'
       reign_titles:
         -
           years: 3
           ganzhi_start: '壬子'
           range: '前249'
     -
-      name: '始皇帝(嬴政)'
+      name: '始皇帝（嬴政）'
       reign_titles:
         -
           years: 37
           ganzhi_start: '乙卯'
           range: '前246'
     -
-      name: '二世皇帝(嬴胡亥)'
+      name: '二世皇帝（嬴胡亥）'
       reign_titles:
         -
           years: 3
@@ -1000,7 +1000,7 @@ sanguo:
       range: '220一265'
       kings:
         -
-          name: '文帝(曹丕)'
+          name: '文帝（曹丕）'
           reign_titles:
             -
               title: '黄初'
@@ -1711,7 +1711,7 @@ nanbeichao:
               ganzhi_start: '丁亥'
               range: '567'
         -
-          name: '宣帝（陈顼（xū）)'
+          name: '宣帝（陈顼（xū））'
           reign_titles:
             -
               title: '太建'
@@ -1734,7 +1734,7 @@ nanbeichao:
     beiwei:
       dynasty: '北朝 北魏（拓跋氏，后改元氏）'
       range: '386—534'
-      extra: '北魏建国于丙戌(386年)正月，初称代国，同年四月始改国号为魏，439年灭北凉，统一北方'
+      extra: '北魏建国于丙戌（386年）正月，初称代国，同年四月始改国号为魏，439年灭北凉，统一北方'
       kings:
         -
           name: '道武帝（拓跋登珪）'
@@ -2105,7 +2105,7 @@ nanbeichao:
       range: '557—581'
       kings:
         -
-          name: '孝闵(mǐn)帝（宇文觉）'
+          name: '孝闵（mǐn）帝（宇文觉）'
           reign_titles:
             -
               title: ''
@@ -2203,3 +2203,485 @@ sui:
           years: 2
           ganzhi_start: '丁丑（十一）'
           range: '617'
+tang:
+  dynasty: '唐'
+  range: '618—907'
+  kings:
+    -
+      name: '高祖（李渊）'
+      reign_titles:
+        -
+          title: '武德'
+          years: 9
+          ganzhi_start: '戊寅（五月）'
+          range: '618'
+    -
+      name: '太宗（李世民）'
+      reign_titles:
+        -
+          title: '贞观'
+          years: 23
+          ganzhi_start: '丁亥'
+          range: '627'
+    -
+      name: '高宗（李治）'
+      reign_titles:
+        -
+          title: '永徽'
+          years: 6
+          ganzhi_start: '庚戌'
+          range: '650'
+        -
+          title: '显庆'
+          years: 6
+          ganzhi_start: '丙辰'
+          range: '656'
+        -
+          title: '龙朔'
+          years: 3
+          ganzhi_start: '辛酉（三月）'
+          range: '661'
+          extra: '辛酉三月丙申朔改元，一作辛酉二月乙未晦改元'
+        -
+          title: '麟德'
+          years: 2
+          ganzhi_start: '甲子'
+          range: '664'
+        -
+          title: '乾封'
+          years: 3
+          ganzhi_start: '丙寅'
+          range: '666'
+        -
+          title: '总章'
+          years: 3
+          ganzhi_start: '戊辰（三月）'
+          range: '668'
+        -
+          title: '咸亨'
+          years: 5
+          ganzhi_start: '庚午（三月）'
+          range: '670'
+        -
+          title: '上元'
+          years: 3
+          ganzhi_start: '甲戌（八月）'
+          range: '674'
+        -
+          title: '仪凤'
+          years: 4
+          ganzhi_start: '丙子（十一月）'
+          range: '676'
+        -
+          title: '调露'
+          years: 2
+          ganzhi_start: '己卯（六月）'
+          range: '679'
+        -
+          title: '永隆'
+          years: 2
+          ganzhi_start: '庚辰（八月）'
+          range: '680'
+        -
+          title: '开耀'
+          years: 2
+          ganzhi_start: '辛巳（九月）'
+          range: '681'
+        -
+          title: '永淳'
+          years: 2
+          ganzhi_start: '壬午（二月）'
+          range: '682'
+        -
+          title: '弘道'
+          years: 1
+          ganzhi_start: '癸未（十二月）'
+          range: '683'
+    -
+      name: '中宗（李显（又名哲））'
+      reign_titles:
+        -
+          title: '嗣圣'
+          years: 1
+          ganzhi_start: '甲申'
+          range: '684'
+    -
+      name: '睿宗（李旦）'
+      reign_titles:
+        -
+          title: '文明'
+          years: 1
+          ganzhi_start: '甲申（二月）'
+          range: '684'
+    -
+      name: '武后（武曌（zhào））'
+      reign_titles:
+        -
+          title: '光宅'
+          years: 1
+          ganzhi_start: '甲申（九月）'
+          range: '684'
+        -
+          title: '垂拱'
+          years: 4
+          ganzhi_start: '乙酉'
+          range: '685'
+        -
+          title: '永昌'
+          years: 1
+          ganzhi_start: '己丑'
+          range: '689'
+        -
+          title: '载初'
+          years: 1
+          ganzhi_start: '庚寅（正月）'
+          range: '690'
+          extra: '始用周正，改永昌元年十一月为载初元年正月，以十二月为腊月，夏正月为一月。
+          久视元年十月复用夏正，以正月为十一月，腊月为十二月，一月为正月。
+          本表在这段期间内干支后面所注的改元月份都是周历，各年号的使用年数也是按照周历的计算方法'
+    -
+      name: '武后称帝，改国号为周'
+      reign_titles:
+        -
+          title: '天授'
+          years: 3
+          ganzhi_start: '庚寅（九月）'
+          range: 690
+        -
+          title: '如意'
+          years: 1
+          ganzhi_start: '壬辰（四月）'
+          range: '692'
+        -
+          title: '长寿'
+          years: 3
+          ganzhi_start: '壬辰（九月）'
+          range: '692'
+        -
+          title: '延载'
+          years: 1
+          ganzhi_start: '甲午（五月）'
+          range: '694'
+        -
+          title: '证圣'
+          years: 1
+          ganzhi_start: '乙未'
+          range: '695'
+        -
+          title: '天册万岁'
+          years: 2
+          ganzhi_start: '乙未（九月）'
+          range: '695'
+        -
+          title: '万岁登封'
+          years: 1
+          ganzhi_start: '丙申（腊月）'
+          range: '696'
+        -
+          title: '万岁通天'
+          years: 2
+          ganzhi_start: '丙申（三月）'
+          range: '696'
+        -
+          title: '神功'
+          years: 1
+          ganzhi_start: '丁酉（九月）'
+          range: '697'
+        -
+          title: '圣历'
+          years: 3
+          ganzhi_start: '戊戌'
+          range: '698'
+        -
+          title: '久视'
+          years: 1
+          ganzhi_start: '庚子（五月）'
+          range: '700'
+        -
+          title: '大足'
+          years: 1
+          ganzhi_start: '辛丑'
+          range: '701'
+        -
+          title: '长安'
+          years: 4
+          ganzhi_start: '辛丑（十月）'
+          range: '701'
+    -
+      name: '中宗（李显（又名哲））复唐国号'
+      reign_titles:
+        -
+          title: '神龙'
+          years: 3
+          ganzhi_start: '乙巳'
+          range: '705'
+        -
+          title: '景龙'
+          years: 4
+          ganzhi_start: '丁未（九月）'
+          range: '707'
+    -
+      name: '殇帝（李重茂）'
+      reign_titles:
+        -
+          title: '唐隆'
+          years: 1
+          ganzhi_start: '庚戌'
+          range: '710'
+    -
+      name: '睿宗（李旦）'
+      reign_titles:
+        -
+          title: '景云'
+          years: 2
+          ganzhi_start: '庚戌（七月）'
+          range: '710'
+        -
+          title: '太极'
+          years: 1
+          ganzhi_start: '壬子'
+          range: '712'
+        -
+          title: '延和'
+          years: 1
+          ganzhi_start: '壬子（五月）'
+          range: '712'
+    -
+      name: '玄宗（李隆基）'
+      reign_titles:
+        -
+          title: '先天'
+          years: 2
+          ganzhi_start: '壬子（八月）'
+          range: '712'
+        -
+          title: '开元'
+          years: 29
+          ganzhi_start: '癸丑（十二月）'
+          range: '713'
+        -
+          title: '天宝'
+          years: 15
+          ganzhi_start: '壬午'
+          range: '742'
+    -
+      name: '肃宗（李亨）'
+      reign_titles:
+        -
+          title: '至德'
+          years: 3
+          ganzhi_start: '丙申（七月）'
+          range: '756'
+        -
+          title: '乾元'
+          years: 3
+          ganzhi_start: '戊戌（二月）'
+          range: '758'
+        -
+          title: '上元'
+          years: 2
+          ganzhi_start: '庚子（闰四月）'
+          range: '760'
+        -
+          title: ''
+          years: 1
+          ganzhi_start: '辛丑（九月）'
+          range: '761'
+          extra: '此年九月以后去年号，但称元年，以建子月为岁首。次年建巳月（即四月）改元宝应，复寅正'
+    -
+      name: '代宗（李豫）'
+      reign_titles:
+        -
+          title: '宝应'
+          years: 2
+          ganzhi_start: '壬寅（四月）'
+          range: '762'
+        -
+          title: '广德'
+          years: 2
+          ganzhi_start: '癸卯（七月）'
+          range: '763'
+        -
+          title: '永泰'
+          years: 2
+          ganzhi_start: '乙巳'
+          range: '765'
+        -
+          title: '大历'
+          years: 14
+          ganzhi_start: '丙午（十一月）'
+          range: '766'
+    -
+     name: '德宗（李适（kuò））'
+     reign_titles:
+        -
+          title: '建中'
+          years: 4
+          ganzhi_start: '庚申'
+          range: '780'
+        -
+          title: '兴元'
+          years: 1
+          ganzhi_start: '甲子）'
+          range: '784'
+        -
+          title: '贞元'
+          years: 21
+          ganzhi_start: '乙丑'
+          range: '785'
+    -
+      name: '顺宗（李诵）'
+      reign_titles:
+        -
+          title: '永贞'
+          years: 1
+          ganzhi_start: '乙酉（八月）'
+          range: '805'
+    -
+      name: '宪宗（李纯）'
+      reign_titles:
+        -
+          title: '元和'
+          years: 15
+          ganzhi_start: '丙戌'
+          range: '806'
+    -
+      name: '穆宗（李恒）'
+      reign_titles:
+        -
+          title: '长庆'
+          years: 4
+          ganzhi_start: '辛丑'
+          range: '821'
+    -
+      name: '敬宗（李湛）'
+      reign_titles:
+        -
+          title: '宝历'
+          years: 3
+          ganzhi_start: '乙巳'
+          range: '825'
+    -
+      name: '文宗（李昂）'
+      reign_titles:
+        -
+          title: '宝历'
+          years: ''
+          ganzhi_start: '丙午（十二月）'
+          range: '826'
+        -
+          title: '大（太）和'
+          years: 9
+          ganzhi_start: '丁未（二月）'
+          range: '827'
+        -
+          title: '开成'
+          years: 5
+          ganzhi_start: '丙辰'
+          range: '836'
+    -
+      name: '武宗（李炎）'
+      reign_titles:
+        -
+          title: '会昌'
+          years: 6
+          ganzhi_start: '辛酉'
+          range: '841'
+    -
+      name: '宣宗（李忱）'
+      reign_titles:
+        -
+          title: '大中'
+          years: 14
+          ganzhi_start: '丁卯'
+          range: '847'
+    -
+      name: '懿宗（李漼（cuǐ））'
+      reign_titles:
+        -
+          title: '大中'
+          years: ''
+          ganzhi_start: '己卯（八月）'
+          range: '859'
+        -
+          title: '咸通'
+          years: 15
+          ganzhi_start: '庚辰（十一月）'
+          range: '860'
+          extra: '懿宗859年8月即位，仍称大中十三年，860年称大中十四年，十一月改元咸通'
+    -
+      name: '僖（xī）宗（李儇（xuān））'
+      reign_titles:
+        -
+          title: '乾符'
+          years: 6
+          ganzhi_start: '甲午（十一月）'
+          range: '874'
+          extra: '僖宗873年7月即位，仍称咸通十四年，874年称咸通十五年，十一月改元乾符'
+        -
+          title: '广明'
+          years: 2
+          ganzhi_start: '庚子'
+          range: '880'
+        -
+          title: '中和'
+          years: 5
+          ganzhi_start: '辛丑（七月）'
+          range: '881'
+        -
+          title: '光启'
+          years: 4
+          ganzhi_start: '乙巳（三月）'
+          range: '885'
+        -
+          title: '文德'
+          years: 1
+          ganzhi_start: '戊申（二月）'
+          range: '888'
+    -
+      name: '昭宗（李晔）'
+      reign_titles:
+        -
+          title: '龙纪'
+          years: 1
+          ganzhi_start: '己酉'
+          range: '889'
+        -
+          title: '大顺'
+          years: 2
+          ganzhi_start: '庚戌'
+          range: '890'
+        -
+          title: '景福'
+          years: 2
+          ganzhi_start: '壬子'
+          range: '892'
+        -
+          title: '乾宁'
+          years: 5
+          ganzhi_start: '甲寅'
+          range: '894'
+        -
+          title: '光化'
+          years: 4
+          ganzhi_start: '戊午（八月）'
+          range: '898'
+        -
+          title: '天复'
+          years: 4
+          ganzhi_start: '辛酉（四月）'
+          range: '9O1'
+        -
+          title: '天祐'
+          years: 4
+          ganzhi_start: '甲子（闰四月）'
+          range: '904'
+    -
+      name: '哀帝（李柷（chù]））'
+      reign_titles:
+        -
+          title: '天祐'
+          years: ''
+          ganzhi_start: '甲子（八月）'
+          range: '904'
+          extra: '哀帝即位未改元'
