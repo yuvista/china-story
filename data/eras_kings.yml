@@ -3842,3 +3842,109 @@ ming:
           years: 17
           ganzhi_start: '戊辰'
           range: '1628'
+qing:
+  dynasty: '清（爱新觉罗氏）'
+  range: '1616——1911'
+  extra: '清建国于1616年，初称后金（历史上称“后金”），1636年始改国号为清，1644年入关'
+  kings:
+    -
+      name: '太祖（爱新觉罗努尔哈赤）'
+      reign_titles:
+        -
+          title: '天命'
+          years: 11
+          ganzhi_start: '丙辰'
+          range: '1616'
+    -
+      name: '太宗（爱新觉罗皇太极）'
+      reign_titles:
+        -
+          title: '天聪'
+          years: 10
+          ganzhi_start: '丁卯'
+          range: '1627'
+        -
+          title: '崇德'
+          years: 8
+          ganzhi_start: '丙子（四月）'
+          range: '1636'
+    -
+      name: '世祖（爱新觉罗福临）'
+      reign_titles:
+        -
+          title: '顺治'
+          years: 18
+          ganzhi_start: '甲申'
+          range: '1644'
+    -
+      name: '圣祖（爱新觉罗玄烨）'
+      reign_titles:
+        -
+          title: '康熙'
+          years: 61
+          ganzhi_start: '壬寅'
+          range: '1662'
+    -
+      name: '世宗（爱新觉罗胤禛）'
+      reign_titles:
+        -
+          title: '雍正'
+          years: 13
+          ganzhi_start: '癸卯'
+          range: '1723'
+    -
+      name: '高宗（爱新觉罗弘历）'
+      reign_titles:
+        -
+          title: '乾隆'
+          years: 60
+          ganzhi_start: '丙辰'
+          range: '1736'
+    -
+      name: '仁宗（爱新觉罗颙琰）'
+      reign_titles:
+        -
+          title: '嘉庆'
+          years: 25
+          ganzhi_start: '丙辰'
+          range: '1796'
+    -
+      name: '宣宗（爱新觉罗旻（mín）宁）'
+      reign_titles:
+        -
+          title: '道光'
+          years: 30
+          ganzhi_start: '辛巳'
+          range: '1821'
+    -
+      name: '文宗（爱新觉罗奕詝（zhǔ））'
+      reign_titles:
+        -
+          title: '咸丰'
+          years: 11
+          ganzhi_start: '辛亥'
+          range: '1851'
+    -
+      name: '穆宗（爱新觉罗载淳）'
+      reign_titles:
+        -
+          title: '同治'
+          years: 13
+          ganzhi_start: '壬戌'
+          range: '1862'
+    -
+      name: '德宗（爱新觉罗载湉（tián））'
+      reign_titles:
+        -
+          title: '光绪'
+          years: 34
+          ganzhi_start: '乙亥'
+          range: '1875'
+    -
+      name: '爱新觉罗溥仪'
+      reign_titles:
+        -
+          title: '宣统'
+          years: 3
+          ganzhi_start: '己酉'
+          range: '1909'
